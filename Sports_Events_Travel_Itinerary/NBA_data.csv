@@ -1,0 +1,1003 @@
+,Home_Team,Away_Team,Arena,City,State,Country,Date,Day,Time,Price
+0,Philadelphia 76ers Preseason,Charlotte Hornets Preseason,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-10-12,Wed,7:00 PM,$6
+1,Indiana Pacers Preseason,New York Knicks Preseason,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-10-12,Wed,7:00 PM,$5
+2,Milwaukee Bucks Preseason,Brooklyn Nets Preseason,Fiserv Forum,Milwaukee,WI,USA,2022-10-12,Wed,7:00 PM,$4
+3,Phoenix Suns Preseason,Sacramento Kings Preseason,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-10-12,Wed,7:00 PM,$6
+4,Los Angeles Lakers Preseason,Minnesota Timberwolves Preseason,Crypto.com Arena,Los Angeles,CA,USA,2022-10-12,Wed,7:00 PM,$35
+5,Miami He Preseason,New Orleans Pelicans,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-10-12,Wed,7:30 PM,$4
+6,Los Angeles Clippers Preseason,Denver Nuggets Preseason,Toyota Arena,Ontario,CA,USA,2022-10-12,Wed,7:30 PM, 
+7,Detroit Pistons Preseason,Memphis Grizzlies Preseason,Little Caesars Arena,Detroit,MI,USA,2022-10-13,Thu,7:00 PM,$10
+8,San Antonio Spurs Preseason,Oklahoma City Thunder Preseason,AT&T Center,San Antonio,TX,USA,2022-10-13,Thu,7:00 PM,$3
+9,Indiana Pacers Preseason,Houston Rockets Preseason,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-10-14,Fri,7:00 PM,$11
+10,Orlando Magic Preseason,Cleveland Cavaliers Preseason,Amway Center,Orlando,FL,USA,2022-10-14,Fri,7:00 PM,$8
+11,New Orleans Pelicans Preseason,Atlanta Hawks Preseason,Legacy Arena at The BJCC,North Birmingham,AL,USA,2022-10-14,Fri,7:00 PM,$32
+12,Minnesota Timberwolves Preseason,Brooklyn Nets Preseason,Target Center,Minneapolis,MN,USA,2022-10-14,Fri,7:00 PM,$12
+13,Utah Jazz Preseason,Dallas Mavericks Preseason,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-10-14,Fri,7:00 PM,$3
+14,Sacramento Kings Preseason,Los Angeles Lakers Preseason,Golden 1 Center,Sacramento,CA,USA,2022-10-14,Fri,7:00 PM,$16
+15,Golden State Warriors Preseason,Denver Nuggets Preseason,Chase Center,San Francisco,CA,USA,2022-10-14,Fri,7:00 PM,$35
+16,Toronto Raptors Preseason,NBA Canada Series: Boston Celtics Preseason,Bell Centre,Montréal,,Canada,2022-10-14,Fri,7:30 PM,$122
+17,New York Knicks Preseason,Washington Wizards Preseason,Madison Square Garden,New York,NY,USA,2022-10-14,Fri,7:30 PM,$45
+18,Golden State Warriors,Los Angeles Lakers,Chase Center,San Francisco,CA,USA,2022-10-18,Tue,7:00 PM,$250
+19,Boston Celtics,Philadelphia 76ers,TD Garden,Boston,MA,USA,2022-10-18,Tue,7:30 PM,$75
+20,Memphis Grizzlies,New York Knicks,FedExForum,Memphis,TN,USA,2022-10-19,Wed,6:30 PM,$6
+21,Indiana Pacers,Washington Wizards,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-10-19,Wed,7:00 PM,$12
+22,Detroit Pistons,Orlando Magic,Little Caesars Arena,Detroit,MI,USA,2022-10-19,Wed,7:00 PM,$24
+23,Minnesota Timberwolves,Oklahoma City Thunder,Target Center,Minneapolis,MN,USA,2022-10-19,Wed,7:00 PM,$31
+24,San Antonio Spurs,Charlotte Hornets,AT&T Center,San Antonio,TX,USA,2022-10-19,Wed,7:00 PM,$16
+25,Utah Jazz,Denver Nuggets,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-10-19,Wed,7:00 PM,$9
+26,Sacramento Kings,Portland Trail Blazers,Golden 1 Center,Sacramento,CA,USA,2022-10-19,Wed,7:00 PM,$30
+27,Phoenix Suns,Dallas Mavericks,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-10-19,Wed,7:00 PM,$45
+28,Brooklyn Nets,New Orleans Pelicans,Barclays Center,Brooklyn,NY,USA,2022-10-19,Wed,7:30 PM,$48
+29,Atlanta Hawks,Houston Rockets,State Farm Arena,Atlanta,GA,USA,2022-10-19,Wed,7:30 PM,$25
+30,Toronto Raptors,Cleveland Cavaliers,Scotiabank Arena,Toronto,,Canada,2022-10-19,Wed,7:30 PM,$53
+31,Miami Heat,Chicago Bulls,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-10-19,Wed,7:30 PM,$49
+32,Los Angeles Lakers,Los Angeles Clippers,Crypto.com Arena,Los Angeles,CA,USA,2022-10-20,Thu,7:00 PM,$40
+33,Philadelphia 76ers,Milwaukee Bucks,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-10-20,Thu,7:30 PM,$69
+34,Charlotte Hornets,New Orleans Pelicans,Spectrum Center,Charlotte,NC,USA,2022-10-21,Fri,7:00 PM,$22
+35,Indiana Pacers,San Antonio Spurs,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-10-21,Fri,7:00 PM,$12
+36,Washington Wizards,Chicago Bulls,Capital One Arena,Washington,DC,USA,2022-10-21,Fri,7:00 PM,$24
+37,Houston Rockets,Memphis Grizzlies,Toyota Center,Houston,TX,USA,2022-10-21,Fri,7:00 PM,$18
+38,Minnesota Timberwolves,Utah Jazz,Target Center,Minneapolis,MN,USA,2022-10-21,Fri,7:00 PM,$25
+39,Portland Trail Blazers,Phoenix Suns,Moda Center at the Rose Quarter,Portland,OR,USA,2022-10-21,Fri,7:00 PM,$30
+40,Golden State Warriors,Denver Nuggets,Chase Center,San Francisco,CA,USA,2022-10-21,Fri,7:00 PM,$97
+41,New York Knicks,Detroit Pistons,Madison Square Garden,New York,NY,USA,2022-10-21,Fri,7:30 PM,$90
+42,Miami Heat,Boston Celtics,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-10-21,Fri,7:30 PM,$60
+43,Atlanta Hawks,Orlando Magic,State Farm Arena,Atlanta,GA,USA,2022-10-21,Fri,7:30 PM,$24
+44,Brooklyn Nets,Toronto Raptors,Barclays Center,Brooklyn,NY,USA,2022-10-21,Fri,7:30 PM,$39
+45,Philadelphia 76ers,San Antonio Spurs,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-10-22,Sat,6:00 PM,$35
+46,Indiana Pacers,Detroit Pistons,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-10-22,Sat,7:00 PM,$16
+47,Orlando Magic,Boston Celtics,Amway Center,Orlando,FL,USA,2022-10-22,Sat,7:00 PM,$50
+48,Milwaukee Bucks,Houston Rockets,Fiserv Forum,Milwaukee,WI,USA,2022-10-22,Sat,7:00 PM,$25
+49,Chicago Bulls,Cleveland Cavaliers,United Center,Chicago,IL,USA,2022-10-22,Sat,7:00 PM,$38
+50,Denver Nuggets,Oklahoma City Thunder,Ball Arena,Denver,CO,USA,2022-10-22,Sat,7:00 PM,$17
+51,Sacramento Kings,Los Angeles Clippers,Golden 1 Center,Sacramento,CA,USA,2022-10-22,Sat,7:00 PM,$24
+52,Dallas Mavericks,Memphis Grizzlies,American Airlines Center,Dallas,TX,USA,2022-10-22,Sat,7:30 PM,$57
+53,Miami Heat,Toronto Raptors,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-10-22,Sat,8:00 PM,$30
+54,Los Angeles Lakers,Portland Trail Blazers,Crypto.com Arena,Los Angeles,CA,USA,2022-10-23,Sun,12:30 PM,$40
+55,Atlanta Hawks,Charlotte Hornets,State Farm Arena,Atlanta,GA,USA,2022-10-23,Sun,5:00 PM,$26
+56,Golden State Warriors,Sacramento Kings,Chase Center,San Francisco,CA,USA,2022-10-23,Sun,5:30 PM,$94
+57,New Orleans Pelicans,Utah Jazz,Smoothie King Center,New Orleans,LA,USA,2022-10-23,Sun,6:00 PM,$11
+58,Cleveland Cavaliers,Washington Wizards,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-10-23,Sun,7:00 PM,$32
+59,Oklahoma City Thunder,Minnesota Timberwolves,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-10-23,Sun,7:00 PM,$7
+60,Los Angeles Clippers,Phoenix Suns,Crypto.com Arena,Los Angeles,CA,USA,2022-10-23,Sun,7:00 PM,$29
+61,Philadelphia 76ers,Indiana Pacers,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-10-24,Mon,7:00 PM,$15
+62,Memphis Grizzlies,Brooklyn Nets,FedExForum,Memphis,TN,USA,2022-10-24,Mon,7:00 PM,$13
+63,Houston Rockets,Utah Jazz,Toyota Center,Houston,TX,USA,2022-10-24,Mon,7:00 PM,$7
+64,Chicago Bulls,Boston Celtics,United Center,Chicago,IL,USA,2022-10-24,Mon,7:00 PM,$27
+65,Minnesota Timberwolves,San Antonio Spurs,Target Center,Minneapolis,MN,USA,2022-10-24,Mon,7:00 PM,$22
+66,Portland Trail Blazers,Denver Nuggets,Moda Center at the Rose Quarter,Portland,OR,USA,2022-10-24,Mon,7:00 PM,$8
+67,Miami Heat,Toronto Raptors,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-10-24,Mon,7:30 PM,$22
+68,New York Knicks,Orlando Magic,Madison Square Garden,New York,NY,USA,2022-10-24,Mon,7:30 PM,$85
+69,New Orleans Pelicans,Dallas Mavericks,Smoothie King Center,New Orleans,LA,USA,2022-10-25,Tue,6:30 PM,$16
+70,Washington Wizards,Detroit Pistons,Capital One Arena,Washington,DC,USA,2022-10-25,Tue,7:00 PM,$11
+71,Oklahoma City Thunder,Los Angeles Clippers,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-10-25,Tue,7:00 PM,$7
+72,Phoenix Suns,Golden State Warriors,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-10-25,Tue,7:00 PM,$45
+73,Milwaukee Bucks,Brooklyn Nets,Fiserv Forum,Milwaukee,WI,USA,2022-10-26,Wed,6:30 PM,$30
+74,Detroit Pistons,Atlanta Hawks,Little Caesars Arena,Detroit,MI,USA,2022-10-26,Wed,7:00 PM,$16
+75,Cleveland Cavaliers,Orlando Magic,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-10-26,Wed,7:00 PM,$16
+76,Chicago Bulls,Indiana Pacers,United Center,Chicago,IL,USA,2022-10-26,Wed,7:00 PM,$38
+77,Minnesota Timberwolves,San Antonio Spurs,Target Center,Minneapolis,MN,USA,2022-10-26,Wed,7:00 PM,$19
+78,Utah Jazz,Houston Rockets,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-10-26,Wed,7:00 PM,$3
+79,New York Knicks,Charlotte Hornets,Madison Square Garden,New York,NY,USA,2022-10-26,Wed,7:30 PM,$86
+80,Toronto Raptors,Philadelphia 76ers,Scotiabank Arena,Toronto,,Canada,2022-10-26,Wed,7:30 PM,$50
+81,Denver Nuggets,Los Angeles Lakers,Ball Arena,Denver,CO,USA,2022-10-26,Wed,8:00 PM,$50
+82,Oklahoma City Thunder,Los Angeles Clippers,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-10-27,Thu,7:00 PM,$7
+83,Sacramento Kings,Memphis Grizzlies,Golden 1 Center,Sacramento,CA,USA,2022-10-27,Thu,7:00 PM,$24
+84,Brooklyn Nets,Dallas Mavericks,Barclays Center,Brooklyn,NY,USA,2022-10-27,Thu,7:30 PM,$58
+85,Orlando Magic,Charlotte Hornets,Amway Center,Orlando,FL,USA,2022-10-28,Fri,7:00 PM,$20
+86,Detroit Pistons,Atlanta Hawks,Little Caesars Arena,Detroit,MI,USA,2022-10-28,Fri,7:00 PM,$20
+87,Minnesota Timberwolves,Los Angeles Lakers,Target Center,Minneapolis,MN,USA,2022-10-28,Fri,7:00 PM,$96
+88,Milwaukee Bucks,New York Knicks,Fiserv Forum,Milwaukee,WI,USA,2022-10-28,Fri,7:00 PM,$37
+89,Denver Nuggets,Utah Jazz,Ball Arena,Denver,CO,USA,2022-10-28,Fri,7:00 PM,$12
+90,Phoenix Suns,New Orleans Pelicans,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-10-28,Fri,7:00 PM,$22
+91,Portland Trail Blazers,Houston Rockets,Moda Center at the Rose Quarter,Portland,OR,USA,2022-10-28,Fri,7:00 PM,$8
+92,Boston Celtics,Cleveland Cavaliers,TD Garden,Boston,MA,USA,2022-10-28,Fri,7:30 PM,$56
+93,Washington Wizards,Indiana Pacers,Capital One Arena,Washington,DC,USA,2022-10-28,Fri,7:30 PM,$11
+94,Toronto Raptors,Philadelphia 76ers,Scotiabank Arena,Toronto,,Canada,2022-10-28,Fri,7:30 PM,$65
+95,San Antonio Spurs,Chicago Bulls,AT&T Center,San Antonio,TX,USA,2022-10-28,Fri,7:30 PM,$21
+96,Charlotte Hornets,Golden State Warriors,Spectrum Center,Charlotte,NC,USA,2022-10-29,Sat,7:00 PM,$98
+97,Chicago Bulls,Philadelphia 76ers,United Center,Chicago,IL,USA,2022-10-29,Sat,7:00 PM,$38
+98,Milwaukee Bucks,Atlanta Hawks,Fiserv Forum,Milwaukee,WI,USA,2022-10-29,Sat,7:00 PM,$27
+99,Utah Jazz,Memphis Grizzlies,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-10-29,Sat,7:00 PM,$10
+100,Brooklyn Nets,Indiana Pacers,Barclays Center,Brooklyn,NY,USA,2022-10-29,Sat,7:30 PM,$33
+101,Dallas Mavericks,Oklahoma City Thunder,American Airlines Center,Dallas,TX,USA,2022-10-29,Sat,8:00 PM,$20
+102,Los Angeles Clippers,New Orleans Pelicans,Crypto.com Arena,Los Angeles,CA,USA,2022-10-30,Sun,12:00 PM,$21
+103,Detroit Pistons,Golden State Warriors,Little Caesars Arena,Detroit,MI,USA,2022-10-30,Sun,6:00 PM,$90
+104,Cleveland Cavaliers,New York Knicks,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-10-30,Sun,6:00 PM,$19
+105,Boston Celtics,Washington Wizards,TD Garden,Boston,MA,USA,2022-10-30,Sun,6:00 PM,$28
+106,San Antonio Spurs,Minnesota Timberwolves,AT&T Center,San Antonio,TX,USA,2022-10-30,Sun,6:00 PM,$6
+107,Phoenix Suns,Houston Rockets,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-10-30,Sun,6:00 PM,$8
+108,Dallas Mavericks,Orlando Magic,American Airlines Center,Dallas,TX,USA,2022-10-30,Sun,6:30 PM,$13
+109,Los Angeles Lakers,Denver Nuggets,Crypto.com Arena,Los Angeles,CA,USA,2022-10-30,Sun,6:30 PM,$40
+110,Charlotte Hornets,Sacramento Kings,Spectrum Center,Charlotte,NC,USA,2022-10-31,Mon,7:00 PM,$9
+111,Washington Wizards,Philadelphia 76ers,Capital One Arena,Washington,DC,USA,2022-10-31,Mon,7:00 PM,$19
+112,Milwaukee Bucks,Detroit Pistons,Fiserv Forum,Milwaukee,WI,USA,2022-10-31,Mon,7:00 PM,$14
+113,Utah Jazz,Memphis Grizzlies,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-10-31,Mon,7:00 PM,$6
+114,Brooklyn Nets,Indiana Pacers,Barclays Center,Brooklyn,NY,USA,2022-10-31,Mon,7:30 PM,$16
+115,Toronto Raptors,Atlanta Hawks,Scotiabank Arena,Toronto,,Canada,2022-10-31,Mon,7:30 PM,$35
+116,Los Angeles Clippers,Houston Rockets,Crypto.com Arena,Los Angeles,CA,USA,2022-10-31,Mon,7:30 PM,$12
+117,Oklahoma City Thunder,Orlando Magic,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-01,Tue,6:30 PM,$10
+118,Phoenix Suns,Minnesota Timberwolves,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-11-01,Tue,7:00 PM,$16
+119,Brooklyn Nets,Chicago Bulls,Barclays Center,Brooklyn,NY,USA,2022-11-01,Tue,7:30 PM,$60
+120,Miami Heat,Golden State Warriors,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-11-01,Tue,7:30 PM,$105
+121,Chicago Bulls,Charlotte Hornets,United Center,Chicago,IL,USA,2022-11-02,Wed,6:30 PM,$38
+122,Cleveland Cavaliers,Boston Celtics,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-11-02,Wed,7:00 PM,$28
+123,Philadelphia 76ers,Washington Wizards,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-11-02,Wed,7:00 PM,$20
+124,Milwaukee Bucks,Detroit Pistons,Fiserv Forum,Milwaukee,WI,USA,2022-11-02,Wed,7:00 PM,$15
+125,Houston Rockets,Los Angeles Clippers,Toyota Center,Houston,TX,USA,2022-11-02,Wed,7:00 PM,$8
+126,San Antonio Spurs,Toronto Raptors,AT&T Center,San Antonio,TX,USA,2022-11-02,Wed,7:00 PM,$8
+127,Portland Trail Blazers,Memphis Grizzlies,Moda Center at the Rose Quarter,Portland,OR,USA,2022-11-02,Wed,7:00 PM,$12
+128,Miami Heat,Sacramento Kings,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-11-02,Wed,7:30 PM,$17
+129,New York Knicks,Atlanta Hawks,Madison Square Garden,New York,NY,USA,2022-11-02,Wed,7:30 PM,$100
+130,Dallas Mavericks,Utah Jazz,American Airlines Center,Dallas,TX,USA,2022-11-02,Wed,7:30 PM,$12
+131,Los Angeles Lakers,New Orleans Pelicans,Crypto.com Arena,Los Angeles,CA,USA,2022-11-02,Wed,7:30 PM,$19
+132,Orlando Magic,Golden State Warriors,Amway Center,Orlando,FL,USA,2022-11-03,Thu,7:00 PM,$70
+133,Oklahoma City Thunder,Denver Nuggets,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-03,Thu,7:00 PM,$10
+134,Detroit Pistons,Cleveland Cavaliers,Little Caesars Arena,Detroit,MI,USA,2022-11-04,Fri,7:00 PM,$17
+135,Maine Celtics,Westchester Knicks,Portland Expo Center ME,Portland,ME,USA,2022-11-04,Fri,7:00 PM,$33
+136,College Park SkyHawks,Long Island Nets,Gateway Center Arena at College Park,Atlanta,GA,USA,2022-11-04,Fri,7:00 PM,$23
+137,Washington Wizards,Brooklyn Nets,Capital One Arena,Washington,DC,USA,2022-11-04,Fri,7:00 PM,$30
+138,Philadelphia 76ers,New York Knicks,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-11-04,Fri,7:00 PM,$46
+139,Greensboro Swarm,Delaware Blue Coats,The Fieldhouse at Greensboro Coliseum Complex,Greensboro,NC,USA,2022-11-04,Fri,7:00 PM,$29
+140,Cleveland Charge,Motor City Cruise,Cleveland State University Wolstein Center,Cleveland,OH,USA,2022-11-04,Fri,7:00 PM,$31
+141,Memphis Grizzlies,Charlotte Hornets,FedExForum,Memphis,TN,USA,2022-11-04,Fri,7:00 PM,$9
+142,San Antonio Spurs,Los Angeles Clippers,AT&T Center,San Antonio,TX,USA,2022-11-04,Fri,7:00 PM,$16
+143,Memphis Hustle,Lakeland Magic,Landers Center,Southaven,MS,USA,2022-11-04,Fri,7:00 PM, 
+144,Phoenix Suns,Portland Trail Blazers,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-11-04,Fri,7:00 PM,$19
+145,G League Ignite,Oklahoma City Blue,Dollar Loan Center Arena,Henderson,NV,USA,2022-11-04,Fri,7:00 PM, 
+146,Santa Cruz Warriors,Ontario Clippers,Kaiser Permanente Arena,Santa Cruz,CA,USA,2022-11-04,Fri,7:00 PM,$40
+147,Boston Celtics,Chicago Bulls,TD Garden,Boston,MA,USA,2022-11-04,Fri,7:30 PM,$58
+148,New Orleans Pelicans,Golden State Warriors,Smoothie King Center,New Orleans,LA,USA,2022-11-04,Fri,7:30 PM,$65
+149,Dallas Mavericks,Toronto Raptors,American Airlines Center,Dallas,TX,USA,2022-11-04,Fri,7:30 PM,$21
+150,Austin Spurs,Texas Legends,H-E-B Center at Cedar Park,Cedar Park,TX,USA,2022-11-04,Fri,7:30 PM,$29
+151,Los Angeles Lakers,Utah Jazz,Crypto.com Arena,Los Angeles,CA,USA,2022-11-04,Fri,7:30 PM,$12
+152,Wisconsin Herd,Windy City Bulls,Oshkosh Arena,Oshkosh,WI,USA,2022-11-04,Fri,8:00 PM, 
+153,Minnesota Timberwolves,Milwaukee Bucks,Target Center,Minneapolis,MN,USA,2022-11-04,Fri,9:00 PM,$51
+154,Orlando Magic,Sacramento Kings,Amway Center,Orlando,FL,USA,2022-11-05,Sat,5:00 PM,$18
+155,South Bay Lakers,Stockton Kings,UCLA Health Training Center,El Segundo,CA,USA,2022-11-05,Sat,5:00 PM,$64
+156,Charlotte Hornets,Brooklyn Nets,Spectrum Center,Charlotte,NC,USA,2022-11-05,Sat,7:00 PM,$27
+157,Capital City Go-Go,Raptors 905,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2022-11-05,Sat,7:00 PM, 
+158,Greensboro Swarm,Delaware Blue Coats,The Fieldhouse at Greensboro Coliseum Complex,Greensboro,NC,USA,2022-11-05,Sat,7:00 PM,$28
+159,Fort Wayne Mad Ants,Grand Rapids Gold,Allen County War Memorial Coliseum Arena,Fort Wayne,IN,USA,2022-11-05,Sat,7:00 PM,$33
+160,Iowa Wolves,Sioux Falls Skyforce,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2022-11-05,Sat,7:00 PM, 
+161,Milwaukee Bucks,Oklahoma City Thunder,Fiserv Forum,Milwaukee,WI,USA,2022-11-05,Sat,7:00 PM,$32
+162,Minnesota Timberwolves,Houston Rockets,Target Center,Minneapolis,MN,USA,2022-11-05,Sat,7:00 PM,$35
+163,Windy City Bulls,Wisconsin Herd,NOW Arena,Hoffman Estates,IL,USA,2022-11-05,Sat,7:00 PM, 
+164,Austin Spurs,Texas Legends,H-E-B Center at Cedar Park,Cedar Park,TX,USA,2022-11-05,Sat,7:00 PM,$29
+165,Denver Nuggets,San Antonio Spurs,Ball Arena,Denver,CO,USA,2022-11-05,Sat,7:00 PM,$12
+166,Phoenix Suns,Portland Trail Blazers,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-11-05,Sat,7:00 PM,$21
+167,Santa Cruz Warriors,Ontario Clippers,Kaiser Permanente Arena,Santa Cruz,CA,USA,2022-11-05,Sat,7:00 PM,$40
+168,Atlanta Hawks,New Orleans Pelicans,State Farm Arena,Atlanta,GA,USA,2022-11-05,Sat,7:30 PM,$40
+169,New York Knicks,Boston Celtics,Madison Square Garden,New York,NY,USA,2022-11-05,Sat,7:30 PM,$165
+170,Los Angeles Lakers,Cleveland Cavaliers,Crypto.com Arena,Los Angeles,CA,USA,2022-11-06,Sun,12:30 PM,$23
+171,Maine Celtics,Westchester Knicks,Portland Expo Center ME,Portland,ME,USA,2022-11-06,Sun,1:00 PM,$23
+172,College Park SkyHawks,Long Island Nets,Gateway Center Arena at College Park,Atlanta,GA,USA,2022-11-06,Sun,2:00 PM,$22
+173,Capital City Go-Go,Raptors 905,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2022-11-06,Sun,3:00 PM, 
+174,Iowa Wolves,Sioux Falls Skyforce,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2022-11-06,Sun,3:00 PM, 
+175,Fort Wayne Mad Ants,Grand Rapids Gold,Allen County War Memorial Coliseum Arena,Fort Wayne,IN,USA,2022-11-06,Sun,5:00 PM,$32
+176,Memphis Grizzlies,Washington Wizards,FedExForum,Memphis,TN,USA,2022-11-06,Sun,5:00 PM,$9
+177,Birmingham Squadron,Lakeland Magic,Legacy Arena at The BJCC,North Birmingham,AL,USA,2022-11-06,Sun,5:00 PM,$29
+178,G League Ignite,Salt Lake City Stars,Dollar Loan Center Arena,Henderson,NV,USA,2022-11-06,Sun,5:00 PM, 
+179,Toronto Raptors,Chicago Bulls,Scotiabank Arena,Toronto,,Canada,2022-11-06,Sun,6:00 PM,$59
+180,Los Angeles Clippers,Utah Jazz,Crypto.com Arena,Los Angeles,CA,USA,2022-11-06,Sun,7:00 PM,$15
+181,Motor City Cruise,Windy City Bulls,Wayne State Arena,Detroit,MI,USA,2022-11-07,Mon,7:00 PM,$15
+182,Charlotte Hornets,Washington Wizards,Spectrum Center,Charlotte,NC,USA,2022-11-07,Mon,7:00 PM,$9
+183,Golden State Warriors,Sacramento Kings,Chase Center,San Francisco,CA,USA,2022-11-07,Mon,7:00 PM,$75
+184,Orlando Magic,Houston Rockets,Amway Center,Orlando,FL,USA,2022-11-07,Mon,7:15 PM,$14
+185,Detroit Pistons,Oklahoma City Thunder,Little Caesars Arena,Detroit,MI,USA,2022-11-07,Mon,7:30 PM,$16
+186,Los Angeles Clippers,Cleveland Cavaliers,Crypto.com Arena,Los Angeles,CA,USA,2022-11-07,Mon,7:30 PM,$21
+187,Indiana Pacers,New Orleans Pelicans,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-11-07,Mon,7:45 PM,$17
+188,Chicago Bulls,Toronto Raptors,United Center,Chicago,IL,USA,2022-11-07,Mon,7:45 PM,$38
+189,Philadelphia 76ers,Phoenix Suns,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-11-07,Mon,8:00 PM,$29
+190,Memphis Grizzlies,Boston Celtics,FedExForum,Memphis,TN,USA,2022-11-07,Mon,8:00 PM,$17
+191,Atlanta Hawks,Milwaukee Bucks,State Farm Arena,Atlanta,GA,USA,2022-11-07,Mon,8:15 PM,$31
+192,Minnesota Timberwolves,New York Knicks,Target Center,Minneapolis,MN,USA,2022-11-07,Mon,8:15 PM,$22
+193,Utah Jazz,Los Angeles Lakers,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-11-07,Mon,8:15 PM,$46
+194,Miami Heat,Portland Trail Blazers,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-11-07,Mon,8:30 PM,$20
+195,San Antonio Spurs,Denver Nuggets,AT&T Center,San Antonio,TX,USA,2022-11-07,Mon,8:30 PM,$16
+196,Dallas Mavericks,Brooklyn Nets,American Airlines Center,Dallas,TX,USA,2022-11-07,Mon,8:45 PM,$32
+197,Oklahoma City Blue,Santa Cruz Warriors,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-09,Wed,12:00 PM,$25
+198,Indiana Pacers,Denver Nuggets,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-11-09,Wed,7:00 PM,$12
+199,Orlando Magic,Dallas Mavericks,Amway Center,Orlando,FL,USA,2022-11-09,Wed,7:00 PM,$24
+200,Charlotte Hornets,Portland Trail Blazers,Spectrum Center,Charlotte,NC,USA,2022-11-09,Wed,7:00 PM,$11
+201,Oklahoma City Thunder,Milwaukee Bucks,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-09,Wed,7:00 PM,$12
+202,San Antonio Spurs,Memphis Grizzlies,AT&T Center,San Antonio,TX,USA,2022-11-09,Wed,7:00 PM,$13
+203,Chicago Bulls,New Orleans Pelicans,United Center,Chicago,IL,USA,2022-11-09,Wed,7:00 PM,$38
+204,Minnesota Timberwolves,Phoenix Suns,Target Center,Minneapolis,MN,USA,2022-11-09,Wed,7:00 PM,$31
+205,Wisconsin Herd,Cleveland Charge,Oshkosh Arena,Oshkosh,WI,USA,2022-11-09,Wed,7:00 PM, 
+206,Sacramento Kings,Cleveland Cavaliers,Golden 1 Center,Sacramento,CA,USA,2022-11-09,Wed,7:00 PM,$15
+207,Los Angeles Clippers,Los Angeles Lakers,Crypto.com Arena,Los Angeles,CA,USA,2022-11-09,Wed,7:00 PM,$91
+208,Boston Celtics,Detroit Pistons,TD Garden,Boston,MA,USA,2022-11-09,Wed,7:30 PM,$22
+209,Toronto Raptors,Houston Rockets,Scotiabank Arena,Toronto,,Canada,2022-11-09,Wed,7:30 PM,$41
+210,Brooklyn Nets,New York Knicks,Barclays Center,Brooklyn,NY,USA,2022-11-09,Wed,7:30 PM,$65
+211,Atlanta Hawks,Utah Jazz,State Farm Arena,Atlanta,GA,USA,2022-11-09,Wed,7:30 PM,$21
+212,Sioux Falls Skyforce,Fort Wayne Mad Ants,Sanford Pentagon,Sioux Falls,SD,USA,2022-11-10,Thu,6:30 PM, 
+213,Washington Wizards,Dallas Mavericks,Capital One Arena,Washington,DC,USA,2022-11-10,Thu,7:00 PM,$21
+214,Delaware Blue Coats,Capital City Go-Go,Chase Fieldhouse,Wilmington,,USA,2022-11-10,Thu,7:00 PM, 
+215,Grand Rapids Gold,Motor City Cruise,Van Andel Arena,Grand Rapids,MI,USA,2022-11-10,Thu,7:00 PM, 
+216,New Orleans Pelicans,Portland Trail Blazers,Smoothie King Center,New Orleans,LA,USA,2022-11-10,Thu,7:00 PM,$10
+217,Oklahoma City Blue,Santa Cruz Warriors,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-10,Thu,7:00 PM,$23
+218,Wisconsin Herd,Cleveland Charge,Oshkosh Arena,Oshkosh,WI,USA,2022-11-10,Thu,7:00 PM, 
+219,Stockton Kings,Salt Lake City Stars,Stockton Arena,Stockton,CA,USA,2022-11-10,Thu,7:00 PM,$33
+220,Atlanta Hawks,Philadelphia 76ers,State Farm Arena,Atlanta,GA,USA,2022-11-10,Thu,7:30 PM,$40
+221,Raptors 905,Westchester Knicks,Paramount Fine Foods Centre,Mississauga,,Canada,2022-11-10,Thu,7:30 PM, 
+222,Miami Heat,Charlotte Hornets,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-11-10,Thu,7:30 PM,$24
+223,Orlando Magic,Phoenix Suns,Amway Center,Orlando,FL,USA,2022-11-11,Fri,7:00 PM,$30
+224,Boston Celtics,Denver Nuggets,TD Garden,Boston,MA,USA,2022-11-11,Fri,7:00 PM,$55
+225,Greensboro Swarm,College Park Skyhawks,The Fieldhouse at Greensboro Coliseum Complex,Greensboro,NC,USA,2022-11-11,Fri,7:00 PM,$28
+226,Lakeland Magic,Austin Spurs,RP Funding Center,Lakeland,FL,USA,2022-11-11,Fri,7:00 PM, 
+227,Oklahoma City Thunder,Toronto Raptors,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-11,Fri,7:00 PM,$12
+228,San Antonio Spurs,Milwaukee Bucks,AT&T Center,San Antonio,TX,USA,2022-11-11,Fri,7:00 PM,$18
+229,Stockton Kings,Salt Lake City Stars,Stockton Arena,Stockton,CA,USA,2022-11-11,Fri,7:00 PM,$33
+230,Golden State Warriors,Cleveland Cavaliers,Chase Center,San Francisco,CA,USA,2022-11-11,Fri,7:00 PM,$115
+231,New York Knicks,Detroit Pistons,Madison Square Garden,New York,NY,USA,2022-11-11,Fri,7:30 PM,$82
+232,Raptors 905,Westchester Knicks,Paramount Fine Foods Centre,Mississauga,,Canada,2022-11-11,Fri,7:30 PM, 
+233,Rio Grande Valley Vipers,Birmingham Squadron,Bert Ogden Arena,Edinburg,TX,USA,2022-11-11,Fri,7:30 PM, 
+234,Los Angeles Lakers,Sacramento Kings,Crypto.com Arena,Los Angeles,CA,USA,2022-11-11,Fri,7:30 PM,$40
+235,Memphis Grizzlies,Minnesota Timberwolves,FedExForum,Memphis,TN,USA,2022-11-11,Fri,8:30 PM,$12
+236,Los Angeles Clippers,Brooklyn Nets,Crypto.com Arena,Los Angeles,CA,USA,2022-11-12,Sat,1:00 PM,$28
+237,Windy City Bulls,Iowa Wolves,NOW Arena,Hoffman Estates,IL,USA,2022-11-12,Sat,5:00 PM, 
+238,Washington Wizards,Utah Jazz,Capital One Arena,Washington,DC,USA,2022-11-12,Sat,6:00 PM,$17
+239,Delaware Blue Coats,Capital City Go-Go,Chase Fieldhouse,Wilmington,,USA,2022-11-12,Sat,6:00 PM, 
+240,Indiana Pacers,Toronto Raptors,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-11-12,Sat,7:00 PM,$18
+241,Fort Wayne Mad Ants,Sioux Falls Skyforce,Allen County War Memorial Coliseum Arena,Fort Wayne,IN,USA,2022-11-12,Sat,7:00 PM,$33
+242,Detroit Pistons,Boston Celtics,Little Caesars Arena,Detroit,MI,USA,2022-11-12,Sat,7:00 PM,$24
+243,Greensboro Swarm,College Park Skyhawks,The Fieldhouse at Greensboro Coliseum Complex,Greensboro,NC,USA,2022-11-12,Sat,7:00 PM,$28
+244,Lakeland Magic,Austin Spurs,RP Funding Center,Lakeland,FL,USA,2022-11-12,Sat,7:00 PM, 
+245,G League Ignite,Santa Cruz Warriors,Dollar Loan Center Arena,Henderson,NV,USA,2022-11-12,Sat,7:00 PM, 
+246,Philadelphia 76ers,Atlanta Hawks,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-11-12,Sat,7:30 PM,$42
+247,New Orleans Pelicans,Houston Rockets,Smoothie King Center,New Orleans,LA,USA,2022-11-12,Sat,7:30 PM,$17
+248,Dallas Mavericks,Portland Trail Blazers,American Airlines Center,Dallas,TX,USA,2022-11-12,Sat,7:30 PM,$27
+249,Miami Heat,Charlotte Hornets,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-11-12,Sat,8:00 PM,$35
+250,Wisconsin Herd,Motor City Cruise,Oshkosh Arena,Oshkosh,WI,USA,2022-11-12,Sat,8:00 PM, 
+251,Texas Legends,Birmingham Squadron,Comerica Center,Frisco,TX,USA,2022-11-12,Sat,8:30 PM,$25
+252,New York Knicks,Oklahoma City Thunder,Madison Square Garden,New York,NY,USA,2022-11-13,Sun,12:00 PM,$60
+253,Long Island Nets,Maine Celtics,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2022-11-13,Sun,1:00 PM,$36
+254,Windy City Bulls,Iowa Wolves,NOW Arena,Hoffman Estates,IL,USA,2022-11-13,Sun,2:00 PM, 
+255,Washington Wizards,Memphis Grizzlies,Capital One Arena,Washington,DC,USA,2022-11-13,Sun,6:00 PM,$22
+256,Cleveland Cavaliers,Minnesota Timberwolves,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-11-13,Sun,6:00 PM,$24
+257,Sacramento Kings,Golden State Warriors,Golden 1 Center,Sacramento,CA,USA,2022-11-13,Sun,6:00 PM,$81
+258,Los Angeles Lakers,Brooklyn Nets,Crypto.com Arena,Los Angeles,CA,USA,2022-11-13,Sun,6:30 PM,$24
+259,Chicago Bulls,Denver Nuggets,United Center,Chicago,IL,USA,2022-11-13,Sun,7:00 PM,$27
+260,Philadelphia 76ers,Utah Jazz,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-11-13,Sun,7:30 PM,$25
+261,Orlando Magic,Charlotte Hornets,Amway Center,Orlando,FL,USA,2022-11-14,Mon,7:00 PM,$18
+262,Detroit Pistons,Toronto Raptors,Little Caesars Arena,Detroit,MI,USA,2022-11-14,Mon,7:00 PM,$17
+263,Houston Rockets,Los Angeles Clippers,Toyota Center,Houston,TX,USA,2022-11-14,Mon,7:00 PM,$9
+264,Oklahoma City Blue,G League Ignite,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-14,Mon,7:00 PM,$25
+265,Milwaukee Bucks,Atlanta Hawks,Fiserv Forum,Milwaukee,WI,USA,2022-11-14,Mon,7:00 PM,$22
+266,Golden State Warriors,San Antonio Spurs,Chase Center,San Francisco,CA,USA,2022-11-14,Mon,7:00 PM,$78
+267,Ontario Clippers,Stockton Kings,Toyota Arena,Ontario,CA,USA,2022-11-14,Mon,7:00 PM,$28
+268,Boston Celtics,Oklahoma City Thunder,TD Garden,Boston,MA,USA,2022-11-14,Mon,7:30 PM,$19
+269,Miami Heat,Phoenix Suns,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-11-14,Mon,7:30 PM,$34
+270,Greensboro Swarm,Raptors 905,The Fieldhouse at Greensboro Coliseum Complex,Greensboro,NC,USA,2022-11-15,Tue,11:00 AM,$32
+271,New Orleans Pelicans,Memphis Grizzlies,Smoothie King Center,New Orleans,LA,USA,2022-11-15,Tue,6:30 PM,$18
+272,Capital City Go-Go,College Park SkyHawks,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2022-11-15,Tue,7:00 PM, 
+273,Long Island Nets,Maine Celtics,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2022-11-15,Tue,7:00 PM,$54
+274,Wisconsin Herd,Motor City Cruise,Oshkosh Arena,Oshkosh,WI,USA,2022-11-15,Tue,7:00 PM, 
+275,Birmingham Squadron,Lakeland Magic,Legacy Arena at The BJCC,North Birmingham,AL,USA,2022-11-15,Tue,7:00 PM,$28
+276,Sacramento Kings,Brooklyn Nets,Golden 1 Center,Sacramento,CA,USA,2022-11-15,Tue,7:00 PM,$21
+277,Portland Trail Blazers,San Antonio Spurs,Moda Center at the Rose Quarter,Portland,OR,USA,2022-11-15,Tue,7:00 PM,$7
+278,Ontario Clippers,Stockton Kings,Toyota Arena,Ontario,CA,USA,2022-11-15,Tue,7:00 PM,$30
+279,Dallas Mavericks,Los Angeles Clippers,American Airlines Center,Dallas,TX,USA,2022-11-15,Tue,7:30 PM,$27
+280,Austin Spurs,Memphis Hustle,H-E-B Center at Cedar Park,Cedar Park,TX,USA,2022-11-15,Tue,7:30 PM,$29
+281,Utah Jazz,New York Knicks,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-11-15,Tue,8:00 PM,$9
+282,Oklahoma City Blue,G League Ignite,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-16,Wed,11:00 AM, 
+283,Charlotte Hornets,Indiana Pacers,Spectrum Center,Charlotte,NC,USA,2022-11-16,Wed,7:00 PM,$10
+284,Orlando Magic,Minnesota Timberwolves,Amway Center,Orlando,FL,USA,2022-11-16,Wed,7:00 PM,$13
+285,Washington Wizards,Oklahoma City Thunder,Capital One Arena,Washington,DC,USA,2022-11-16,Wed,7:00 PM,$9
+286,New Orleans Pelicans,Chicago Bulls,Smoothie King Center,New Orleans,LA,USA,2022-11-16,Wed,7:00 PM,$17
+287,Milwaukee Bucks,Cleveland Cavaliers,Fiserv Forum,Milwaukee,WI,USA,2022-11-16,Wed,7:00 PM,$26
+288,Atlanta Hawks,Boston Celtics,State Farm Arena,Atlanta,GA,USA,2022-11-16,Wed,7:30 PM,$31
+289,Dallas Mavericks,Houston Rockets,American Airlines Center,Dallas,TX,USA,2022-11-16,Wed,7:30 PM,$16
+290,Phoenix Suns,Golden State Warriors,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-11-16,Wed,8:00 PM,$45
+291,Denver Nuggets,New York Knicks,Ball Arena,Denver,CO,USA,2022-11-16,Wed,8:00 PM,$8
+292,Austin Spurs,Birmingham Squadron,H-E-B Center at Cedar Park,Cedar Park,TX,USA,2022-11-17,Thu,11:00 AM,$29
+293,Cleveland Charge,Iowa Wolves,Cleveland State University Wolstein Center,Cleveland,OH,USA,2022-11-17,Thu,7:00 PM,$31
+294,Maine Celtics,Capital City Go-Go,Portland Expo Center ME,Portland,ME,USA,2022-11-17,Thu,7:00 PM,$28
+295,Motor City Cruise,Wisconsin Herd,Wayne State Arena,Detroit,MI,USA,2022-11-17,Thu,7:00 PM,$13
+296,Rio Grande Valley Vipers,Memphis Hustle,Bert Ogden Arena,Edinburg,TX,USA,2022-11-17,Thu,7:00 PM, 
+297,Sacramento Kings,San Antonio Spurs,Golden 1 Center,Sacramento,CA,USA,2022-11-17,Thu,7:00 PM,$14
+298,Ontario Clippers,Salt Lake City Stars,Toyota Arena,Ontario,CA,USA,2022-11-17,Thu,7:00 PM, 
+299,Stockton Kings,South Bay Lakers,Stockton Arena,Stockton,CA,USA,2022-11-17,Thu,7:00 PM,$28
+300,Portland Trail Blazers,Brooklyn Nets,Moda Center at the Rose Quarter,Portland,OR,USA,2022-11-17,Thu,7:00 PM,$21
+301,Los Angeles Clippers,Detroit Pistons,Crypto.com Arena,Los Angeles,CA,USA,2022-11-17,Thu,7:30 PM,$13
+302,Maine Celtics,Capital City Go-Go,Portland Expo Center ME,Portland,ME,USA,2022-11-18,Fri,7:00 PM,$29
+303,Greensboro Swarm,Long Island Nets,The Fieldhouse at Greensboro Coliseum Complex,Greensboro,NC,USA,2022-11-18,Fri,7:00 PM,$28
+304,Delaware Blue Coats,Raptors 905,Chase Fieldhouse,Wilmington,,USA,2022-11-18,Fri,7:00 PM, 
+305,Houston Rockets,Indiana Pacers,Toyota Center,Houston,TX,USA,2022-11-18,Fri,7:00 PM,$11
+306,Sioux Falls Skyforce,Windy City Bulls,Sanford Pentagon,Sioux Falls,SD,USA,2022-11-18,Fri,7:00 PM, 
+307,Memphis Grizzlies,Oklahoma City Thunder,FedExForum,Memphis,TN,USA,2022-11-18,Fri,7:00 PM,$8
+308,Chicago Bulls,Orlando Magic,United Center,Chicago,IL,USA,2022-11-18,Fri,7:00 PM,$38
+309,Utah Jazz,Phoenix Suns,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-11-18,Fri,7:00 PM,$9
+310,G League Ignite,Salt Lake City Stars,Dollar Loan Center Arena,Henderson,NV,USA,2022-11-18,Fri,7:00 PM, 
+311,Golden State Warriors,New York Knicks,Chase Center,San Francisco,CA,USA,2022-11-18,Fri,7:00 PM,$80
+312,Cleveland Cavaliers,Charlotte Hornets,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-11-18,Fri,7:30 PM,$24
+313,Philadelphia 76ers,Milwaukee Bucks,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-11-18,Fri,7:30 PM,$62
+314,New Orleans Pelicans,Boston Celtics,Smoothie King Center,New Orleans,LA,USA,2022-11-18,Fri,7:30 PM,$28
+315,Dallas Mavericks,Denver Nuggets,American Airlines Center,Dallas,TX,USA,2022-11-18,Fri,7:30 PM,$30
+316,Los Angeles Lakers,Detroit Pistons,Crypto.com Arena,Los Angeles,CA,USA,2022-11-18,Fri,7:30 PM,$14
+317,Texas Legends,Birmingham Squadron,Comerica Center,Frisco,TX,USA,2022-11-18,Fri,8:30 PM,$25
+318,Atlanta Hawks,Toronto Raptors,Mohegan Sun Arena,Uncasville,CT,USA,2022-11-19,Sat,1:00 PM,$26
+319,Indiana Pacers,Orlando Magic,State Farm Arena,Atlanta,GA,USA,2022-11-19,Sat,6:00 PM,$40
+320,Greensboro Swarm,Long Island Nets,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-11-19,Sat,7:00 PM,$14
+321,Cleveland Charge,Motor City Cruise,The Fieldhouse at Greensboro Coliseum Complex,Greensboro,NC,USA,2022-11-19,Sat,7:00 PM,$29
+322,Sioux Falls Skyforce,Windy City Bulls,Cleveland State University Wolstein Center,Cleveland,OH,USA,2022-11-19,Sat,7:00 PM,$31
+323,Iowa Wolves,Wisconsin Herd,Sanford Pentagon,Sioux Falls,SD,USA,2022-11-19,Sat,7:00 PM, 
+324,Portland Trail Blazers,Utah Jazz,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2022-11-19,Sat,7:00 PM, 
+325,Santa Cruz Warriors,South Bay Lakers,Moda Center at the Rose Quarter,Portland,OR,USA,2022-11-19,Sat,7:00 PM,$15
+326,Philadelphia 76ers,Minnesota Timberwolves,Kaiser Permanente Arena,Santa Cruz,CA,USA,2022-11-19,Sat,7:00 PM,$44
+327,Rio Grande Valley Vipers,Memphis Hustle,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-11-19,Sat,7:30 PM,$36
+328,Los Angeles Clippers,San Antonio Spurs,Bert Ogden Arena,Edinburg,TX,USA,2022-11-19,Sat,7:30 PM, 
+329,Maine Celtics,Delaware Blue Coats,Crypto.com Arena,Los Angeles,CA,USA,2022-11-19,Sat,7:30 PM,$15
+330,Austin Spurs,Mexico City Capitanes,Mohegan Sun Arena,Uncasville,CT,USA,2022-11-20,Sun,1:00 PM,$25
+331,Phoenix Suns,New York Knicks,Portland Expo Center ME,Portland,ME,USA,2022-11-20,Sun,1:00 PM,$27
+332,College Park SkyHawks,Westchester Knicks,H-E-B Center at Cedar Park,Cedar Park,TX,USA,2022-11-20,Sun,1:00 PM,$29
+333,Iowa Wolves,Wisconsin Herd,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-11-20,Sun,1:30 PM,$28
+334,Sacramento Kings,Detroit Pistons,Gateway Center Arena at College Park,Atlanta,GA,USA,2022-11-20,Sun,2:00 PM,$21
+335,Washington Wizards,Charlotte Hornets,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2022-11-20,Sun,3:00 PM, 
+336,Houston Rockets,Golden State Warriors,Golden 1 Center,Sacramento,CA,USA,2022-11-20,Sun,3:00 PM,$20
+337,Dallas Mavericks,Denver Nuggets,Capital One Arena,Washington,DC,USA,2022-11-20,Sun,6:00 PM,$15
+338,Los Angeles Lakers,San Antonio Spurs,Toyota Center,Houston,TX,USA,2022-11-20,Sun,6:00 PM,$59
+339,Brooklyn Nets,Memphis Grizzlies,American Airlines Center,Dallas,TX,USA,2022-11-20,Sun,6:30 PM,$25
+340,Oklahoma City Blue,South Bay Lakers,Barclays Center,Brooklyn,NY,USA,2022-11-20,Sun,7:00 PM,$53
+341,Indiana Pacers,Orlando Magic,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-11-20,Sun,7:00 PM,$29
+342,Cleveland Cavaliers,Atlanta Hawks,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-21,Mon,12:00 PM,$25
+343,Capital City Go-Go,Greensboro Swarm,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-11-21,Mon,7:00 PM,$8
+344,Oklahoma City Thunder,New York Knicks,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-11-21,Mon,7:00 PM,$18
+345,New Orleans Pelicans,Golden State Warriors,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2022-11-21,Mon,7:00 PM, 
+346,Chicago Bulls,Boston Celtics,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-21,Mon,7:00 PM,$11
+347,Milwaukee Bucks,Portland Trail Blazers,United Center,Chicago,IL,USA,2022-11-21,Mon,7:00 PM,$27
+348,Salt Lake City Stars,Santa Cruz Warriors,Target Center,Minneapolis,MN,USA,2022-11-21,Mon,7:00 PM,$30
+349,Raptors 905,Long Island Nets,Fiserv Forum,Milwaukee,WI,USA,2022-11-21,Mon,7:00 PM,$26
+350,Los Angeles Clippers,Utah Jazz,Maverik Center,West Valley City,UT,USA,2022-11-21,Mon,7:00 PM, 
+351,Texas Legends,Lakeland Magic,Paramount Fine Foods Centre,Mississauga,,Canada,2022-11-21,Mon,7:30 PM, 
+352,Fort Wayne Mad Ants,Cleveland Charge,Crypto.com Arena,Los Angeles,CA,USA,2022-11-21,Mon,7:30 PM,$12
+353,Westchester Knicks,College Park SkyHawks,Comerica Center,Frisco,TX,USA,2022-11-21,Mon,8:00 PM,$25
+354,Memphis Grizzlies,Sacramento Kings,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-11-22,Tue,11:00 AM, 
+355,Denver Nuggets,Detroit Pistons,Total Mortgage Arena,Bridgeport,CT,USA,2022-11-22,Tue,7:00 PM,$35
+356,Salt Lake City Stars,Santa Cruz Warriors,FedExForum,Memphis,TN,USA,2022-11-22,Tue,7:00 PM,$5
+357,Philadelphia 76ers,Brooklyn Nets,Ball Arena,Denver,CO,USA,2022-11-22,Tue,7:00 PM,$10
+358,Texas Legends,Lakeland Magic,Maverik Center,West Valley City,UT,USA,2022-11-22,Tue,7:00 PM, 
+359,Phoenix Suns,Los Angeles Lakers,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-11-22,Tue,7:30 PM,$94
+360,Oklahoma City Blue,South Bay Lakers,Comerica Center,Frisco,TX,USA,2022-11-22,Tue,8:00 PM,$20
+361,Sioux Falls Skyforce,Grand Rapids Gold,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-11-22,Tue,8:00 PM,$56
+362,Charlotte Hornets,Philadelphia 76ers,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-23,Wed,12:00 PM,$25
+363,Indiana Pacers,Minnesota Timberwolves,Sanford Pentagon,Sioux Falls,SD,USA,2022-11-23,Wed,6:30 PM, 
+364,Cleveland Cavaliers,Portland Trail Blazers,Spectrum Center,Charlotte,NC,USA,2022-11-23,Wed,7:00 PM,$22
+365,Oklahoma City Thunder,Denver Nuggets,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-11-23,Wed,7:00 PM,$18
+366,San Antonio Spurs,New Orleans Pelicans,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-11-23,Wed,7:00 PM,$26
+367,Milwaukee Bucks,Chicago Bulls,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-23,Wed,7:00 PM,$12
+368,Rio Grande Valley Vipers,Mexico City Capitanes,AT&T Center,San Antonio,TX,USA,2022-11-23,Wed,7:00 PM,$12
+369,Utah Jazz,Detroit Pistons,Fiserv Forum,Milwaukee,WI,USA,2022-11-23,Wed,7:00 PM,$57
+370,Golden State Warriors,Los Angeles Clippers,Bert Ogden Arena,Edinburg,TX,USA,2022-11-23,Wed,7:00 PM, 
+371,Atlanta Hawks,Sacramento Kings,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-11-23,Wed,7:00 PM,$7
+372,Toronto Raptors,Brooklyn Nets,Chase Center,San Francisco,CA,USA,2022-11-23,Wed,7:00 PM,$145
+373,Miami Heat,Washington Wizards,State Farm Arena,Atlanta,GA,USA,2022-11-23,Wed,7:30 PM,$27
+374,Boston Celtics,Dallas Mavericks,Scotiabank Arena,Toronto,,Canada,2022-11-23,Wed,7:30 PM,$70
+375,Raptors 905,Long Island Nets,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-11-23,Wed,7:30 PM,$29
+376,Oklahoma City Blue,Salt Lake City Stars,TD Garden,Boston,MA,USA,2022-11-23,Wed,7:30 PM,$62
+377,Charlotte Hornets,Minnesota Timberwolves,Paramount Fine Foods Centre,Mississauga,,Canada,2022-11-23,Wed,7:30 PM, 
+378,Birmingham Squadron,Austin Spurs,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-25,Fri,12:00 PM,$25
+379,Orlando Magic,Philadelphia 76ers,Spectrum Center,Charlotte,NC,USA,2022-11-25,Fri,5:00 PM,$23
+380,Fort Wayne Mad Ants,Iowa Wolves,Legacy Arena at The BJCC,North Birmingham,AL,USA,2022-11-25,Fri,6:00 PM, 
+381,Lakeland Magic,Mexico City Capitanes,Amway Center,Orlando,FL,USA,2022-11-25,Fri,7:00 PM,$52
+382,Delaware Blue Coats,Greensboro Swarm,Allen County War Memorial Coliseum Arena,Fort Wayne,IN,USA,2022-11-25,Fri,7:00 PM,$33
+383,Motor City Cruise,Grand Rapids Gold,RP Funding Center,Lakeland,FL,USA,2022-11-25,Fri,7:00 PM,$31
+384,Oklahoma City Thunder,Chicago Bulls,Chase Fieldhouse,Wilmington,,USA,2022-11-25,Fri,7:00 PM, 
+385,Memphis Grizzlies,New Orleans Pelicans,Wayne State Arena,Detroit,MI,USA,2022-11-25,Fri,7:00 PM,$17
+386,Houston Rockets,Atlanta Hawks,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-25,Fri,7:00 PM,$18
+387,San Antonio Spurs,Los Angeles Lakers,FedExForum,Memphis,TN,USA,2022-11-25,Fri,7:00 PM,$28
+388,Milwaukee Bucks,Cleveland Cavaliers,Toyota Center,Houston,TX,USA,2022-11-25,Fri,7:00 PM,$15
+389,Phoenix Suns,Detroit Pistons,AT&T Center,San Antonio,TX,USA,2022-11-25,Fri,7:00 PM,$37
+390,Golden State Warriors,Utah Jazz,Fiserv Forum,Milwaukee,WI,USA,2022-11-25,Fri,7:00 PM,$52
+391,Santa Cruz Warriors,G League Ignite,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-11-25,Fri,7:00 PM,$32
+392,New York Knicks,Portland Trail Blazers,Chase Center,San Francisco,CA,USA,2022-11-25,Fri,7:00 PM,$109
+393,Los Angeles Clippers,Denver Nuggets,Kaiser Permanente Arena,Santa Cruz,CA,USA,2022-11-25,Fri,7:00 PM,$44
+394,Indiana Pacers,Brooklyn Nets,Madison Square Garden,New York,NY,USA,2022-11-25,Fri,7:30 PM,$90
+395,Boston Celtics,Sacramento Kings,Crypto.com Arena,Los Angeles,CA,USA,2022-11-25,Fri,7:30 PM,$24
+396,Miami Heat,Washington Wizards,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-11-25,Fri,8:00 PM,$48
+397,Texas Legends,Rio Grande Valley Vipers,TD Garden,Boston,MA,USA,2022-11-25,Fri,8:00 PM,$44
+398,Toronto Raptors,Dallas Mavericks,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-11-25,Fri,8:00 PM,$40
+399,Lakeland Magic,Mexico City Capitanes,Comerica Center,Frisco,TX,USA,2022-11-25,Fri,8:30 PM,$24
+400,Houston Rockets,Oklahoma City Thunder,Scotiabank Arena,Toronto,,Canada,2022-11-26,Sat,5:00 PM,$98
+401,Windy City Bulls,Cleveland Charge,RP Funding Center,Lakeland,FL,USA,2022-11-26,Sat,7:00 PM, 
+402,San Antonio Spurs,Los Angeles Lakers,Toyota Center,Houston,TX,USA,2022-11-26,Sat,7:00 PM,$18
+403,Phoenix Suns,Utah Jazz,NOW Arena,Hoffman Estates,IL,USA,2022-11-26,Sat,7:00 PM, 
+404,Santa Cruz Warriors,Stockton Kings,AT&T Center,San Antonio,TX,USA,2022-11-26,Sat,7:00 PM,$47
+405,Westchester Knicks,Long Island Nets,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-11-26,Sat,7:00 PM,$30
+406,Wisconsin Herd,Sioux Falls Skyforce,Kaiser Permanente Arena,Santa Cruz,CA,USA,2022-11-26,Sat,7:00 PM,$38
+407,Texas Legends,Rio Grande Valley Vipers,Total Mortgage Arena,Bridgeport,CT,USA,2022-11-26,Sat,7:30 PM,$35
+408,Los Angeles Clippers,Indiana Pacers,Oshkosh Arena,Oshkosh,WI,USA,2022-11-26,Sat,8:00 PM, 
+409,Minnesota Timberwolves,Golden State Warriors,Comerica Center,Frisco,TX,USA,2022-11-26,Sat,8:30 PM,$24
+410,Grand Rapids Gold,Iowa Wolves,Crypto.com Arena,Los Angeles,CA,USA,2022-11-27,Sun,1:00 PM,$18
+411,Capital City Go-Go,College Park SkyHawks,Target Center,Minneapolis,MN,USA,2022-11-27,Sun,2:30 PM,$88
+412,Brooklyn Nets,Portland Trail Blazers,Van Andel Arena,Grand Rapids,MI,USA,2022-11-27,Sun,3:00 PM, 
+413,Delaware Blue Coats,Maine Celtics,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2022-11-27,Sun,3:00 PM, 
+414,Motor City Cruise,Fort Wayne Mad Ants,Barclays Center,Brooklyn,NY,USA,2022-11-27,Sun,3:00 PM,$26
+415,Birmingham Squadron,Austin Spurs,Chase Fieldhouse,Wilmington,,USA,2022-11-27,Sun,3:00 PM, 
+416,Orlando Magic,Philadelphia 76ers,Legacy Arena at The BJCC,North Birmingham,AL,USA,2022-11-27,Sun,3:00 PM,$29
+417,Detroit Pistons,Cleveland Cavaliers,State Farm Arena,Atlanta,GA,USA,2022-11-27,Sun,5:00 PM,$45
+418,New York Knicks,Memphis Grizzlies,Amway Center,Orlando,FL,USA,2022-11-27,Sun,6:00 PM,$35
+419,Boston Celtics,Washington Wizards,Little Caesars Arena,Detroit,MI,USA,2022-11-27,Sun,6:00 PM,$17
+420,Milwaukee Bucks,Dallas Mavericks,Madison Square Garden,New York,NY,USA,2022-11-27,Sun,6:00 PM,$85
+421,Philadelphia 76ers,Atlanta Hawks,TD Garden,Boston,MA,USA,2022-11-27,Sun,6:00 PM,$32
+422,Westchester Knicks,Greensboro Swarm,Fiserv Forum,Milwaukee,WI,USA,2022-11-27,Sun,7:00 PM,$46
+423,Washington Wizards,Minnesota Timberwolves,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-11-28,Mon,7:00 PM,$21
+424,Long Island Nets,College Park Skyhawks,Total Mortgage Arena,Bridgeport,CT,USA,2022-11-28,Mon,7:00 PM,$35
+425,Motor City Cruise,Fort Wayne Mad Ants,Capital One Arena,Washington,DC,USA,2022-11-28,Mon,7:00 PM,$12
+426,New Orleans Pelicans,Oklahoma City Thunder,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2022-11-28,Mon,7:00 PM,$34
+427,Denver Nuggets,Houston Rockets,Wayne State Arena,Detroit,MI,USA,2022-11-28,Mon,7:00 PM,$13
+428,Salt Lake City Stars,G League Ignite,Smoothie King Center,New Orleans,LA,USA,2022-11-28,Mon,7:00 PM,$11
+429,Utah Jazz,Chicago Bulls,Ball Arena,Denver,CO,USA,2022-11-28,Mon,7:00 PM,$8
+430,Sacramento Kings,Phoenix Suns,Maverik Center,West Valley City,UT,USA,2022-11-28,Mon,7:00 PM, 
+431,Ontario Clippers,Oklahoma City Blue,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-11-28,Mon,7:00 PM,$7
+432,Brooklyn Nets,Orlando Magic,Golden 1 Center,Sacramento,CA,USA,2022-11-28,Mon,7:00 PM,$28
+433,Boston Celtics,Charlotte Hornets,Toyota Arena,Ontario,CA,USA,2022-11-28,Mon,7:00 PM,$30
+434,Toronto Raptors,Cleveland Cavaliers,Barclays Center,Brooklyn,NY,USA,2022-11-28,Mon,7:30 PM,$22
+435,Los Angeles Lakers,Indiana Pacers,TD Garden,Boston,MA,USA,2022-11-28,Mon,7:30 PM,$28
+436,Rio Grande Valley Vipers,Birmingham Squadron,Scotiabank Arena,Toronto,,Canada,2022-11-28,Mon,7:30 PM,$39
+437,Cleveland Charge,Sioux Falls Skyforce,Crypto.com Arena,Los Angeles,CA,USA,2022-11-28,Mon,7:30 PM,$39
+438,Dallas Mavericks,Golden State Warriors,Bert Ogden Arena,Edinburg,TX,USA,2022-11-29,Tue,11:00 AM, 
+439,Detroit Pistons,New York Knicks,Cleveland State University Wolstein Center,Cleveland,OH,USA,2022-11-29,Tue,6:00 PM,$31
+440,Westchester Knicks,Greensboro Swarm,American Airlines Center,Dallas,TX,USA,2022-11-29,Tue,6:30 PM,$84
+441,Grand Rapids Gold,Wisconsin Herd,Little Caesars Arena,Detroit,MI,USA,2022-11-29,Tue,7:00 PM,$18
+442,Delaware Blue Coats,Maine Celtics,Total Mortgage Arena,Bridgeport,CT,USA,2022-11-29,Tue,7:00 PM,$35
+443,Memphis Hustle,Texas Legends,Van Andel Arena,Grand Rapids,MI,USA,2022-11-29,Tue,7:00 PM, 
+444,South Bay Lakers,Salt Lake City Stars,Chase Fieldhouse,Wilmington,,USA,2022-11-29,Tue,7:00 PM, 
+445,Portland Trail Blazers,Los Angeles Clippers,Landers Center,Southaven,MS,USA,2022-11-29,Tue,7:00 PM, 
+446,Cleveland Charge,Sioux Falls Skyforce,UCLA Health Training Center,El Segundo,CA,USA,2022-11-29,Tue,7:00 PM,$47
+447,Orlando Magic,Atlanta Hawks,Moda Center at the Rose Quarter,Portland,OR,USA,2022-11-29,Tue,7:00 PM,$12
+448,Cleveland Cavaliers,Philadelphia 76ers,Cleveland State University Wolstein Center,Cleveland,OH,USA,2022-11-30,Wed,6:00 PM,$31
+449,Capital City Go-Go,Maine Celtics,Amway Center,Orlando,FL,USA,2022-11-30,Wed,7:00 PM,$24
+450,Grand Rapids Gold,Wisconsin Herd,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-11-30,Wed,7:00 PM,$25
+451,Oklahoma City Thunder,San Antonio Spurs,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2022-11-30,Wed,7:00 PM, 
+452,Minnesota Timberwolves,Memphis Grizzlies,Van Andel Arena,Grand Rapids,MI,USA,2022-11-30,Wed,7:00 PM, 
+453,New Orleans Pelicans,Toronto Raptors,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-11-30,Wed,7:00 PM,$12
+454,Memphis Hustle,Texas Legends,Target Center,Minneapolis,MN,USA,2022-11-30,Wed,7:00 PM,$33
+455,Denver Nuggets,Houston Rockets,Smoothie King Center,New Orleans,LA,USA,2022-11-30,Wed,7:00 PM,$11
+456,Phoenix Suns,Chicago Bulls,Landers Center,Southaven,MS,USA,2022-11-30,Wed,7:00 PM, 
+457,Utah Jazz,Los Angeles Clippers,Ball Arena,Denver,CO,USA,2022-11-30,Wed,7:00 PM,$8
+458,Sacramento Kings,Indiana Pacers,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-11-30,Wed,7:00 PM,$36
+459,G League Ignite,Stockton Kings,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-11-30,Wed,7:00 PM,$8
+460,Ontario Clippers,Oklahoma City Blue,Golden 1 Center,Sacramento,CA,USA,2022-11-30,Wed,7:00 PM,$20
+461,New York Knicks,Milwaukee Bucks,Dollar Loan Center Arena,Henderson,NV,USA,2022-11-30,Wed,7:00 PM, 
+462,Brooklyn Nets,Washington Wizards,Madison Square Garden,New York,NY,USA,2022-11-30,Wed,7:30 PM,$98
+463,Los Angeles Lakers,Portland Trail Blazers,TD Garden,Boston,MA,USA,2022-11-30,Wed,7:30 PM,$36
+464,Detroit Pistons,Dallas Mavericks,Barclays Center,Brooklyn,NY,USA,2022-11-30,Wed,7:30 PM,$24
+465,Westchester Knicks,College Park SkyHawks,Crypto.com Arena,Los Angeles,CA,USA,2022-11-30,Wed,7:30 PM,$12
+466,Delaware Blue Coats,Raptors 905,Little Caesars Arena,Detroit,MI,USA,2022-12-01,Thu,7:00 PM,$18
+467,South Bay Lakers,Salt Lake City Stars,Total Mortgage Arena,Bridgeport,CT,USA,2022-12-01,Thu,7:00 PM,$35
+468,Austin Spurs,Rio Grande Valley Vipers,Chase Fieldhouse,Wilmington,,USA,2022-12-01,Thu,7:00 PM, 
+469,Motor City Cruise,Iowa Wolves,UCLA Health Training Center,El Segundo,CA,USA,2022-12-01,Thu,7:00 PM,$47
+470,Milwaukee Bucks,Los Angeles Lakers,H-E-B Center at Cedar Park,Cedar Park,TX,USA,2022-12-01,Thu,7:30 PM,$29
+471,Charlotte Hornets,Washington Wizards,Wayne State Arena,Detroit,MI,USA,2022-12-02,Fri,11:00 AM,$19
+472,Greensboro Swarm,Maine Celtics,Fiserv Forum,Milwaukee,WI,USA,2022-12-02,Fri,6:30 PM,$118
+473,Memphis Grizzlies,Philadelphia 76ers,Spectrum Center,Charlotte,NC,USA,2022-12-02,Fri,7:00 PM,$21
+474,San Antonio Spurs,New Orleans Pelicans,The Fieldhouse at Greensboro Coliseum Complex,Greensboro,NC,USA,2022-12-02,Fri,7:00 PM,$28
+475,Utah Jazz,Indiana Pacers,FedExForum,Memphis,TN,USA,2022-12-02,Fri,7:00 PM,$18
+476,Phoenix Suns,Houston Rockets,AT&T Center,San Antonio,TX,USA,2022-12-02,Fri,7:00 PM,$19
+477,Stockton Kings,Santa Cruz Warriors,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-12-02,Fri,7:00 PM,$7
+478,Golden State Warriors,Chicago Bulls,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-12-02,Fri,7:00 PM,$19
+479,Cleveland Cavaliers,Orlando Magic,Stockton Arena,Stockton,CA,USA,2022-12-02,Fri,7:00 PM,$32
+480,Brooklyn Nets,Toronto Raptors,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-12-02,Fri,7:30 PM,$29
+481,Atlanta Hawks,Denver Nuggets,TD Garden,Boston,MA,USA,2022-12-02,Fri,7:30 PM,$58
+482,Austin Spurs,Memphis Hustle,Barclays Center,Brooklyn,NY,USA,2022-12-02,Fri,7:30 PM,$29
+483,New York Knicks,Dallas Mavericks,State Farm Arena,Atlanta,GA,USA,2022-12-02,Fri,7:30 PM,$44
+484,Los Angeles Clippers,Sacramento Kings,H-E-B Center at Cedar Park,Cedar Park,TX,USA,2022-12-02,Fri,7:30 PM,$29
+485,Golden State Warriors,Houston Rockets,Madison Square Garden,New York,NY,USA,2022-12-03,Sat,12:30 PM,$108
+486,College Park SkyHawks,Raptors 905,Crypto.com Arena,Los Angeles,CA,USA,2022-12-03,Sat,1:00 PM,$20
+487,Charlotte Hornets,Milwaukee Bucks,Chase Center,San Francisco,CA,USA,2022-12-03,Sat,5:30 PM,$100
+488,Fort Wayne Mad Ants,Windy City Bulls,Gateway Center Arena at College Park,Atlanta,GA,USA,2022-12-03,Sat,6:00 PM,$24
+489,Westchester Knicks,Capital City Go-Go,Spectrum Center,Charlotte,NC,USA,2022-12-03,Sat,6:00 PM,$40
+490,Motor City Cruise,Iowa Wolves,Allen County War Memorial Coliseum Arena,Fort Wayne,IN,USA,2022-12-03,Sat,7:00 PM,$33
+491,Minnesota Timberwolves,Oklahoma City Thunder,Total Mortgage Arena,Bridgeport,CT,USA,2022-12-03,Sat,7:00 PM,$35
+492,Utah Jazz,Portland Trail Blazers,Wayne State Arena,Detroit,MI,USA,2022-12-03,Sat,7:00 PM,$21
+493,Stockton Kings,Santa Cruz Warriors,Target Center,Minneapolis,MN,USA,2022-12-03,Sat,7:00 PM,$29
+494,Rio Grande Valley Vipers,Lakeland Magic,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-12-03,Sat,7:00 PM,$11
+495,Toronto Raptors,Orlando Magic,Stockton Arena,Stockton,CA,USA,2022-12-03,Sat,7:00 PM,$29
+496,College Park SkyHawks,Maine Celtics,Bert Ogden Arena,Edinburg,TX,USA,2022-12-03,Sat,7:30 PM, 
+497,Oklahoma City Blue,Ontario Clippers,Scotiabank Arena,Toronto,,Canada,2022-12-03,Sat,8:00 PM,$50
+498,New Orleans Pelicans,Denver Nuggets,Gateway Center Arena at College Park,Atlanta,GA,USA,2022-12-04,Sun,2:00 PM,$22
+499,Sioux Falls Skyforce,Wisconsin Herd,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-12-04,Sun,2:00 PM, 
+500,San Antonio Spurs,Phoenix Suns,Smoothie King Center,New Orleans,LA,USA,2022-12-04,Sun,2:30 PM,$15
+501,Sacramento Kings,Chicago Bulls,Sanford Pentagon,Sioux Falls,SD,USA,2022-12-04,Sun,3:00 PM, 
+502,Detroit Pistons,Memphis Grizzlies,AT&T Center,San Antonio,TX,USA,2022-12-04,Sun,3:00 PM,$15
+503,Brooklyn Nets,Boston Celtics,Golden 1 Center,Sacramento,CA,USA,2022-12-04,Sun,3:00 PM,$33
+504,Washington Wizards,Los Angeles Lakers,Little Caesars Arena,Detroit,MI,USA,2022-12-04,Sun,6:00 PM,$22
+505,New York Knicks,Cleveland Cavaliers,Barclays Center,Brooklyn,NY,USA,2022-12-04,Sun,6:00 PM,$56
+506,Portland Trail Blazers,Indiana Pacers,Capital One Arena,Washington,DC,USA,2022-12-04,Sun,6:00 PM,$109
+507,Raptors 905,Greensboro Swarm,Madison Square Garden,New York,NY,USA,2022-12-04,Sun,6:00 PM,$90
+508,Cleveland Charge,Windy City Bulls,Moda Center at the Rose Quarter,Portland,OR,USA,2022-12-04,Sun,6:00 PM,$11
+509,Orlando Magic,Milwaukee Bucks,Scotiabank Arena,Toronto,,Canada,2022-12-05,Mon,11:00 AM, 
+510,Westchester Knicks,Capital City Go-Go,Cleveland State University Wolstein Center,Cleveland,OH,USA,2022-12-05,Mon,6:00 PM,$31
+511,Fort Wayne Mad Ants,Iowa Wolves,Amway Center,Orlando,FL,USA,2022-12-05,Mon,7:00 PM,$36
+512,Charlotte Hornets,Los Angeles Clippers,Total Mortgage Arena,Bridgeport,CT,USA,2022-12-05,Mon,7:00 PM,$35
+513,Long Island Nets,Delaware Blue Coats,Allen County War Memorial Coliseum Arena,Fort Wayne,IN,USA,2022-12-05,Mon,7:00 PM,$33
+514,Houston Rockets,Philadelphia 76ers,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2022-12-05,Mon,7:00 PM,$34
+515,Rio Grande Valley Vipers,Austin Spurs,FedExForum,Memphis,TN,USA,2022-12-05,Mon,7:00 PM,$10
+516,Salt Lake City Stars,Stockton Kings,Toyota Center,Houston,TX,USA,2022-12-05,Mon,7:00 PM,$18
+517,Golden State Warriors,Indiana Pacers,Bert Ogden Arena,Edinburg,TX,USA,2022-12-05,Mon,7:00 PM, 
+518,Atlanta Hawks,Oklahoma City Thunder,Maverik Center,West Valley City,UT,USA,2022-12-05,Mon,7:00 PM, 
+519,Toronto Raptors,Boston Celtics,Chase Center,San Francisco,CA,USA,2022-12-05,Mon,7:00 PM,$78
+520,Dallas Mavericks,Phoenix Suns,State Farm Arena,Atlanta,GA,USA,2022-12-05,Mon,7:30 PM,$23
+521,Birmingham Squadron,Texas Legends,Scotiabank Arena,Toronto,,Canada,2022-12-05,Mon,7:30 PM,$68
+522,Sioux Falls Skyforce,Wisconsin Herd,American Airlines Center,Dallas,TX,USA,2022-12-05,Mon,7:30 PM,$25
+523,College Park SkyHawks,Maine Celtics,Legacy Arena at The BJCC,North Birmingham,AL,USA,2022-12-06,Tue,5:00 PM, 
+524,Miami Heat,Detroit Pistons,Sanford Pentagon,Sioux Falls,SD,USA,2022-12-06,Tue,6:30 PM, 
+525,Cleveland Cavaliers,Los Angeles Lakers,Gateway Center Arena at College Park,Atlanta,GA,USA,2022-12-06,Tue,7:00 PM,$22
+526,Raptors 905,Greensboro Swarm,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-12-06,Tue,7:30 PM,$19
+527,Denver Nuggets,Dallas Mavericks,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-12-06,Tue,7:30 PM,$98
+528,Orlando Magic,Los Angeles Clippers,Paramount Fine Foods Centre,Mississauga,,Canada,2022-12-06,Tue,7:30 PM, 
+529,Long Island Nets,Delaware Blue Coats,Ball Arena,Denver,CO,USA,2022-12-06,Tue,8:00 PM,$16
+530,Cleveland Charge,Fort Wayne Mad Ants,Amway Center,Orlando,FL,USA,2022-12-07,Wed,7:00 PM,$26
+531,Minnesota Timberwolves,Indiana Pacers,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2022-12-07,Wed,7:00 PM, 
+532,Milwaukee Bucks,Sacramento Kings,Cleveland State University Wolstein Center,Cleveland,OH,USA,2022-12-07,Wed,7:00 PM, 
+533,Memphis Grizzlies,Oklahoma City Thunder,Target Center,Minneapolis,MN,USA,2022-12-07,Wed,7:00 PM,$28
+534,New Orleans Pelicans,Detroit Pistons,Fiserv Forum,Milwaukee,WI,USA,2022-12-07,Wed,7:00 PM,$25
+535,Chicago Bulls,Washington Wizards,FedExForum,Memphis,TN,USA,2022-12-07,Wed,7:00 PM,$4
+536,Rio Grande Valley Vipers,Austin Spurs,Smoothie King Center,New Orleans,LA,USA,2022-12-07,Wed,7:00 PM,$10
+537,Utah Jazz,Golden State Warriors,United Center,Chicago,IL,USA,2022-12-07,Wed,7:00 PM,$38
+538,Stockton Kings,Oklahoma City Blue,Bert Ogden Arena,Edinburg,TX,USA,2022-12-07,Wed,7:00 PM, 
+539,Toronto Raptors,Los Angeles Lakers,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-12-07,Wed,7:00 PM,$46
+540,New York Knicks,Atlanta Hawks,Stockton Arena,Stockton,CA,USA,2022-12-07,Wed,7:00 PM,$28
+541,Brooklyn Nets,Charlotte Hornets,Scotiabank Arena,Toronto,,Canada,2022-12-07,Wed,7:30 PM,$140
+542,Phoenix Suns,Boston Celtics,Madison Square Garden,New York,NY,USA,2022-12-07,Wed,7:30 PM,$99
+543,Salt Lake City Stars,Ontario Clippers,Barclays Center,Brooklyn,NY,USA,2022-12-07,Wed,7:30 PM,$29
+544,Portland Trail Blazers,Denver Nuggets,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-12-07,Wed,8:00 PM,$45
+545,Miami Heat,Los Angeles Clippers,Maverik Center,West Valley City,UT,USA,2022-12-08,Thu,7:00 PM, 
+546,San Antonio Spurs,Houston Rockets,Moda Center at the Rose Quarter,Portland,OR,USA,2022-12-08,Thu,7:00 PM,$11
+547,Indiana Pacers,Washington Wizards,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-12-08,Thu,7:30 PM,$29
+548,Orlando Magic,Toronto Raptors,AT&T Center,San Antonio,TX,USA,2022-12-08,Thu,7:30 PM,$11
+549,Delaware Blue Coats,Westchester Knicks,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-12-09,Fri,7:00 PM,$19
+550,Charlotte Hornets,New York Knicks,Amway Center,Orlando,FL,USA,2022-12-09,Fri,7:00 PM,$25
+551,Capital City Go-Go,Long Island Nets,Chase Fieldhouse,Wilmington,,USA,2022-12-09,Fri,7:00 PM, 
+552,Lakeland Magic,Rio Grande Valley Vipers,Spectrum Center,Charlotte,NC,USA,2022-12-09,Fri,7:00 PM,$24
+553,Maine Celtics,Raptors 905,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2022-12-09,Fri,7:00 PM, 
+554,Memphis Grizzlies,Detroit Pistons,RP Funding Center,Lakeland,FL,USA,2022-12-09,Fri,7:00 PM, 
+555,Sioux Falls Skyforce,Motor City Cruise,Portland Expo Center ME,Portland,ME,USA,2022-12-09,Fri,7:00 PM,$27
+556,Windy City Bulls,Fort Wayne Mad Ants,FedExForum,Memphis,TN,USA,2022-12-09,Fri,7:00 PM,$9
+557,Iowa Wolves,Grand Rapids Gold,Sanford Pentagon,Sioux Falls,SD,USA,2022-12-09,Fri,7:00 PM, 
+558,Utah Jazz,Minnesota Timberwolves,NOW Arena,Hoffman Estates,IL,USA,2022-12-09,Fri,7:00 PM, 
+559,Stockton Kings,Oklahoma City Blue,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2022-12-09,Fri,7:00 PM, 
+560,Santa Cruz Warriors,South Bay Lakers,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-12-09,Fri,7:00 PM,$19
+561,Cleveland Cavaliers,Sacramento Kings,Stockton Arena,Stockton,CA,USA,2022-12-09,Fri,7:00 PM,$33
+562,Philadelphia 76ers,Los Angeles Lakers,Kaiser Permanente Arena,Santa Cruz,CA,USA,2022-12-09,Fri,7:00 PM,$44
+563,Brooklyn Nets,Atlanta Hawks,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-12-09,Fri,7:30 PM,$20
+564,New Orleans Pelicans,Phoenix Suns,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-12-09,Fri,7:30 PM,$170
+565,Texas Legends,Austin Spurs,Barclays Center,Brooklyn,NY,USA,2022-12-09,Fri,7:30 PM,$29
+566,Dallas Mavericks,Milwaukee Bucks,Smoothie King Center,New Orleans,LA,USA,2022-12-09,Fri,7:30 PM,$23
+567,Miami Heat,San Antonio Spurs,Comerica Center,Frisco,TX,USA,2022-12-09,Fri,8:30 PM,$24
+568,Golden State Warriors,Boston Celtics,American Airlines Center,Dallas,TX,USA,2022-12-09,Fri,9:00 PM,$47
+569,Indiana Pacers,Brooklyn Nets,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-12-10,Sat,5:00 PM,$27
+570,Washington Wizards,Los Angeles Clippers,Chase Center,San Francisco,CA,USA,2022-12-10,Sat,5:30 PM,$216
+571,Lakeland Magic,Rio Grande Valley Vipers,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-12-10,Sat,7:00 PM,$46
+572,Sioux Falls Skyforce,Motor City Cruise,Capital One Arena,Washington,DC,USA,2022-12-10,Sat,7:00 PM,$28
+573,Chicago Bulls,Dallas Mavericks,RP Funding Center,Lakeland,FL,USA,2022-12-10,Sat,7:00 PM, 
+574,Windy City Bulls,Fort Wayne Mad Ants,Sanford Pentagon,Sioux Falls,SD,USA,2022-12-10,Sat,7:00 PM, 
+575,Iowa Wolves,Grand Rapids Gold,United Center,Chicago,IL,USA,2022-12-10,Sat,7:00 PM,$38
+576,Denver Nuggets,Utah Jazz,NOW Arena,Hoffman Estates,IL,USA,2022-12-10,Sat,7:00 PM, 
+577,Salt Lake City Stars,Ontario Clippers,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2022-12-10,Sat,7:00 PM, 
+578,Portland Trail Blazers,Minnesota Timberwolves,Ball Arena,Denver,CO,USA,2022-12-10,Sat,7:00 PM,$18
+579,Cleveland Cavaliers,Oklahoma City Thunder,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-12-10,Sat,7:00 PM, 
+580,Texas Legends,Memphis Hustle,Moda Center at the Rose Quarter,Portland,OR,USA,2022-12-10,Sat,7:00 PM,$15
+581,Capital City Go-Go,Greensboro Swarm,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-12-10,Sat,7:30 PM,$30
+582,New Orleans Pelicans,Phoenix Suns,Comerica Center,Frisco,TX,USA,2022-12-10,Sat,8:30 PM,$24
+583,G League Ignite,Stockton Kings,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2022-12-11,Sun,1:00 PM, 
+584,Philadelphia 76ers,Charlotte Hornets,Smoothie King Center,New Orleans,LA,USA,2022-12-11,Sun,2:30 PM,$20
+585,New York Knicks,Sacramento Kings,Dollar Loan Center Arena,Henderson,NV,USA,2022-12-11,Sun,4:00 PM, 
+586,Orlando Magic,Toronto Raptors,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-12-11,Sun,6:00 PM,$21
+587,Detroit Pistons,Los Angeles Lakers,Madison Square Garden,New York,NY,USA,2022-12-11,Sun,6:00 PM,$77
+588,Houston Rockets,Milwaukee Bucks,Amway Center,Orlando,FL,USA,2022-12-11,Sun,6:00 PM,$20
+589,Atlanta Hawks,Chicago Bulls,Little Caesars Arena,Detroit,MI,USA,2022-12-11,Sun,6:00 PM,$81
+590,Maine Celtics,Raptors 905,Toyota Center,Houston,TX,USA,2022-12-11,Sun,6:00 PM,$18
+591,Santa Cruz Warriors,Oklahoma City Blue,State Farm Arena,Atlanta,GA,USA,2022-12-11,Sun,6:30 PM,$45
+592,Cleveland Charge,Windy City Bulls,Portland Expo Center ME,Portland,ME,USA,2022-12-11,Sun,7:00 PM,$27
+593,Grand Rapids Gold,Sioux Falls Skyforce,Cleveland State University Wolstein Center,Cleveland,OH,USA,2022-12-12,Mon,6:00 PM,$31
+594,College Park SkyHawks,Delaware Blue Coats,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-12-12,Mon,7:00 PM,$19
+595,Washington Wizards,Brooklyn Nets,Van Andel Arena,Grand Rapids,MI,USA,2022-12-12,Mon,7:00 PM, 
+596,Long Island Nets,Capital City Go-Go,Gateway Center Arena at College Park,Atlanta,GA,USA,2022-12-12,Mon,7:00 PM,$22
+597,Memphis Grizzlies,Atlanta Hawks,Capital One Arena,Washington,DC,USA,2022-12-12,Mon,7:00 PM,$19
+598,Iowa Wolves,Motor City Cruise,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2022-12-12,Mon,7:00 PM,$34
+599,Portland Trail Blazers,Minnesota Timberwolves,FedExForum,Memphis,TN,USA,2022-12-12,Mon,7:00 PM,$6
+600,Dallas Mavericks,Oklahoma City Thunder,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2022-12-12,Mon,7:00 PM, 
+601,San Antonio Spurs,Cleveland Cavaliers,Moda Center at the Rose Quarter,Portland,OR,USA,2022-12-12,Mon,7:00 PM,$10
+602,Los Angeles Clippers,Boston Celtics,American Airlines Center,Dallas,TX,USA,2022-12-12,Mon,7:30 PM,$16
+603,Stockton Kings,Ontario Clippers,AT&T Center,San Antonio,TX,USA,2022-12-12,Mon,7:30 PM,$19
+604,Milwaukee Bucks,Golden State Warriors,Crypto.com Arena,Los Angeles,CA,USA,2022-12-12,Mon,7:30 PM,$36
+605,Philadelphia 76ers,Sacramento Kings,Stockton Arena,Stockton,CA,USA,2022-12-13,Tue,3:00 PM,$33
+606,Long Island Nets,Westchester Knicks,Fiserv Forum,Milwaukee,WI,USA,2022-12-13,Tue,6:30 PM,$110
+607,Houston Rockets,Phoenix Suns,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-12-13,Tue,7:00 PM,$20
+608,Memphis Hustle,Lakeland Magic,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2022-12-13,Tue,7:00 PM,$34
+609,Utah Jazz,New Orleans Pelicans,Toyota Center,Houston,TX,USA,2022-12-13,Tue,7:00 PM,$17
+610,Salt Lake City Stars,Oklahoma City Blue,Landers Center,Southaven,MS,USA,2022-12-13,Tue,7:00 PM, 
+611,Los Angeles Lakers,Boston Celtics,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-12-13,Tue,7:00 PM,$7
+612,Austin Spurs (Time TBD),Mexico City Capitanes,Maverik Center,West Valley City,UT,USA,2022-12-13,Tue,7:00 PM, 
+613,Chicago Bulls,New York Knicks,Crypto.com Arena,Los Angeles,CA,USA,2022-12-13,Tue,7:00 PM,$28
+614,Indiana Pacers,Golden State Warriors,H-E-B Center at Cedar Park,Cedar Park,TX,USA,2022-12-14,Wed,1:00 PM, 
+615,Orlando Magic,Atlanta Hawks,United Center,Chicago,IL,USA,2022-12-14,Wed,6:30 PM,$38
+616,Grand Rapids Gold,Sioux Falls Skyforce,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-12-14,Wed,7:00 PM,$78
+617,Charlotte Hornets,Detroit Pistons,Amway Center,Orlando,FL,USA,2022-12-14,Wed,7:00 PM,$25
+618,Motor City Cruise,Windy City Bulls,Van Andel Arena,Grand Rapids,MI,USA,2022-12-14,Wed,7:00 PM, 
+619,College Park SkyHawks,Delaware Blue Coats,Spectrum Center,Charlotte,NC,USA,2022-12-14,Wed,7:00 PM,$12
+620,San Antonio Spurs,Portland Trail Blazers,Gateway Center Arena at College Park,Atlanta,GA,USA,2022-12-14,Wed,7:00 PM,$22
+621,Wisconsin Herd,Fort Wayne Mad Ants,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-12-14,Wed,7:00 PM,$12
+622,Salt Lake City Stars,Oklahoma City Blue,AT&T Center,San Antonio,TX,USA,2022-12-14,Wed,7:00 PM,$11
+623,Denver Nuggets,Washington Wizards,Oshkosh Arena,Oshkosh,WI,USA,2022-12-14,Wed,7:00 PM, 
+624,Los Angeles Clippers,Minnesota Timberwolves,Maverik Center,West Valley City,UT,USA,2022-12-14,Wed,7:00 PM, 
+625,South Bay Lakers,Santa Cruz Warriors,Ball Arena,Denver,CO,USA,2022-12-14,Wed,7:00 PM,$10
+626,Toronto Raptors,Sacramento Kings,Crypto.com Arena,Los Angeles,CA,USA,2022-12-14,Wed,7:00 PM,$20
+627,Raptors 905,Capital City Go-Go,UCLA Health Training Center,El Segundo,CA,USA,2022-12-14,Wed,7:00 PM,$47
+628,Dallas Mavericks,Cleveland Cavaliers,Scotiabank Arena,Toronto,,Canada,2022-12-14,Wed,7:30 PM,$38
+629,Lakeland Magic,Birmingham Squadron,Paramount Fine Foods Centre,Mississauga,,Canada,2022-12-14,Wed,7:30 PM, 
+630,Long Island Nets,Westchester Knicks,American Airlines Center,Dallas,TX,USA,2022-12-14,Wed,8:00 PM,$15
+631,Memphis Grizzlies,Milwaukee Bucks,RP Funding Center,Lakeland,FL,USA,2022-12-15,Thu,10:30 AM, 
+632,Iowa Wolves,Cleveland Charge,FedExForum,Memphis,TN,USA,2022-12-15,Thu,7:00 PM,$19
+633,Utah Jazz,New Orleans Pelicans,Toyota Center,Houston,TX,USA,2022-12-15,Thu,7:00 PM,$19
+634,Los Angeles Clippers,Phoenix Suns,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2022-12-15,Thu,7:00 PM, 
+635,Detroit Pistons,Sacramento Kings,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-12-15,Thu,7:00 PM,$6
+636,Westchester Knicks,Delaware Blue Coats,Crypto.com Arena,Los Angeles,CA,USA,2022-12-15,Thu,7:30 PM,$24
+637,Charlotte Hornets,Atlanta Hawks,Little Caesars Arena,Detroit,MI,USA,2022-12-16,Fri,7:00 PM,$17
+638,Lakeland Magic,Texas Legends,Total Mortgage Arena,Bridgeport,CT,USA,2022-12-16,Fri,7:00 PM,$35
+639,Oklahoma City Thunder,Minnesota Timberwolves,Spectrum Center,Charlotte,NC,USA,2022-12-16,Fri,7:00 PM,$19
+640,Windy City Bulls,Grand Rapids Gold,RP Funding Center,Lakeland,FL,USA,2022-12-16,Fri,7:00 PM, 
+641,Chicago Bulls,New York Knicks,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-12-16,Fri,7:00 PM,$12
+642,Los Angeles Lakers,Denver Nuggets,NOW Arena,Hoffman Estates,IL,USA,2022-12-16,Fri,7:00 PM, 
+643,Santa Cruz Warriors,G League Ignite,United Center,Chicago,IL,USA,2022-12-16,Fri,7:00 PM,$38
+644,Cleveland Cavaliers,Indiana Pacers,Landers Center,Southaven,MS,USA,2022-12-16,Fri,7:00 PM, 
+645,Boston Celtics,Orlando Magic,Crypto.com Arena,Los Angeles,CA,USA,2022-12-16,Fri,7:00 PM,$14
+646,Raptors 905,College Park SkyHawks,Kaiser Permanente Arena,Santa Cruz,CA,USA,2022-12-16,Fri,7:00 PM,$40
+647,Philadelphia 76ers,Golden State Warriors,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-12-16,Fri,7:30 PM,$24
+648,Toronto Raptors,Brooklyn Nets,TD Garden,Boston,MA,USA,2022-12-16,Fri,7:30 PM,$40
+649,Dallas Mavericks,Portland Trail Blazers,Paramount Fine Foods Centre,Mississauga,,Canada,2022-12-16,Fri,7:30 PM, 
+650,Wisconsin Herd,Fort Wayne Mad Ants,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-12-16,Fri,7:30 PM,$159
+651,Los Angeles Clippers,Washington Wizards,Scotiabank Arena,Toronto,,Canada,2022-12-16,Fri,7:30 PM,$80
+652,South Bay Lakers,Stockton Kings,American Airlines Center,Dallas,TX,USA,2022-12-16,Fri,7:30 PM,$27
+653,Oklahoma City Thunder,Memphis Grizzlies,Oshkosh Arena,Oshkosh,WI,USA,2022-12-16,Fri,8:00 PM, 
+654,Milwaukee Bucks,Utah Jazz,Crypto.com Arena,Los Angeles,CA,USA,2022-12-17,Sat,1:00 PM,$20
+655,Houston Rockets,Portland Trail Blazers,UCLA Health Training Center,El Segundo,CA,USA,2022-12-17,Sat,5:00 PM,$47
+656,Windy City Bulls,Grand Rapids Gold,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-12-17,Sat,7:00 PM,$19
+657,Phoenix Suns,New Orleans Pelicans,Fiserv Forum,Milwaukee,WI,USA,2022-12-17,Sat,7:00 PM,$39
+658,Cleveland Cavaliers,Dallas Mavericks,Toyota Center,Houston,TX,USA,2022-12-17,Sat,7:00 PM,$18
+659,Boston Celtics,Orlando Magic,NOW Arena,Hoffman Estates,IL,USA,2022-12-17,Sat,7:00 PM, 
+660,Indiana Pacers,New York Knicks,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-12-17,Sat,7:00 PM,$36
+661,Detroit Pistons,Brooklyn Nets,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-12-17,Sat,8:00 PM,$43
+662,Toronto Raptors,Golden State Warriors,TD Garden,Boston,MA,USA,2022-12-18,Sun,3:00 PM,$36
+663,Minnesota Timberwolves,Chicago Bulls,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-12-18,Sun,5:00 PM,$25
+664,Denver Nuggets,Charlotte Hornets,Little Caesars Arena,Detroit,MI,USA,2022-12-18,Sun,6:00 PM,$33
+665,Los Angeles Lakers,Washington Wizards,Scotiabank Arena,Toronto,,Canada,2022-12-18,Sun,6:00 PM,$140
+666,Cleveland Cavaliers,Utah Jazz,Target Center,Minneapolis,MN,USA,2022-12-18,Sun,6:00 PM,$39
+667,Philadelphia 76ers,Toronto Raptors,Ball Arena,Denver,CO,USA,2022-12-18,Sun,6:00 PM,$14
+668,Oklahoma City Thunder,Portland Trail Blazers,Crypto.com Arena,Los Angeles,CA,USA,2022-12-18,Sun,6:30 PM,$16
+669,New Orleans Pelicans,Milwaukee Bucks,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-12-19,Mon,7:00 PM,$29
+670,Houston Rockets,San Antonio Spurs,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-12-19,Mon,7:00 PM,$24
+671,Minnesota Timberwolves,Dallas Mavericks,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-12-19,Mon,7:00 PM,$11
+672,Phoenix Suns,Los Angeles Lakers,Smoothie King Center,New Orleans,LA,USA,2022-12-19,Mon,7:00 PM,$22
+673,Sacramento Kings,Charlotte Hornets,Toyota Center,Houston,TX,USA,2022-12-19,Mon,7:00 PM,$27
+674,Atlanta Hawks,Orlando Magic,Target Center,Minneapolis,MN,USA,2022-12-19,Mon,7:00 PM,$33
+675,Detroit Pistons,Utah Jazz,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-12-19,Mon,7:00 PM,$45
+676,Phoenix Suns,Washington Wizards,Golden 1 Center,Sacramento,CA,USA,2022-12-19,Mon,7:00 PM,$21
+677,New York Knicks,Golden State Warriors,State Farm Arena,Atlanta,GA,USA,2022-12-19,Mon,7:30 PM,$29
+678,Miami Heat,Chicago Bulls,Little Caesars Arena,Detroit,MI,USA,2022-12-20,Tue,7:00 PM,$16
+679,Denver Nuggets,Memphis Grizzlies,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-12-20,Tue,7:00 PM,$18
+680,Philadelphia 76ers,Detroit Pistons,Madison Square Garden,New York,NY,USA,2022-12-20,Tue,7:30 PM,$230
+681,Cleveland Cavaliers,Milwaukee Bucks,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-12-20,Tue,7:30 PM,$53
+682,Oklahoma City Thunder,Portland Trail Blazers,Ball Arena,Denver,CO,USA,2022-12-20,Tue,8:00 PM,$18
+683,Houston Rockets,Orlando Magic,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-12-21,Wed,7:00 PM,$25
+684,Minnesota Timberwolves,Dallas Mavericks,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-12-21,Wed,7:00 PM,$44
+685,Sacramento Kings,Los Angeles Lakers,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-12-21,Wed,7:00 PM,$13
+686,Boston Celtics,Indiana Pacers,Toyota Center,Houston,TX,USA,2022-12-21,Wed,7:00 PM,$13
+687,Atlanta Hawks,Chicago Bulls,Target Center,Minneapolis,MN,USA,2022-12-21,Wed,7:00 PM,$33
+688,New York Knicks,Toronto Raptors,Golden 1 Center,Sacramento,CA,USA,2022-12-21,Wed,7:00 PM,$98
+689,Brooklyn Nets,Golden State Warriors,TD Garden,Boston,MA,USA,2022-12-21,Wed,7:30 PM,$27
+690,Los Angeles Clippers,Charlotte Hornets,State Farm Arena,Atlanta,GA,USA,2022-12-21,Wed,7:30 PM,$49
+691,New Orleans Pelicans,San Antonio Spurs,Madison Square Garden,New York,NY,USA,2022-12-21,Wed,7:30 PM,$99
+692,Utah Jazz,Washington Wizards,Barclays Center,Brooklyn,NY,USA,2022-12-21,Wed,7:30 PM,$122
+693,Orlando Magic,San Antonio Spurs,Crypto.com Arena,Los Angeles,CA,USA,2022-12-21,Wed,7:30 PM,$23
+694,Philadelphia 76ers,Los Angeles Clippers,Smoothie King Center,New Orleans,LA,USA,2022-12-22,Thu,7:00 PM,$16
+695,Oklahoma City Thunder,New Orleans Pelicans,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-12-22,Thu,7:00 PM,$8
+696,Houston Rockets,Dallas Mavericks,Amway Center,Orlando,FL,USA,2022-12-23,Fri,7:00 PM,$22
+697,Denver Nuggets,Portland Trail Blazers,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2022-12-23,Fri,7:00 PM,$66
+698,Sacramento Kings,Washington Wizards,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-12-23,Fri,7:00 PM,$18
+699,Atlanta Hawks,Detroit Pistons,Toyota Center,Houston,TX,USA,2022-12-23,Fri,7:00 PM,$33
+700,Cleveland Cavaliers,Toronto Raptors,Ball Arena,Denver,CO,USA,2022-12-23,Fri,7:00 PM,$22
+701,New York Knicks,Chicago Bulls,Golden 1 Center,Sacramento,CA,USA,2022-12-23,Fri,7:00 PM,$22
+702,Boston Celtics,Minnesota Timberwolves,State Farm Arena,Atlanta,GA,USA,2022-12-23,Fri,7:30 PM,$39
+703,Brooklyn Nets,Milwaukee Bucks,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-12-23,Fri,7:30 PM,$34
+704,Los Angeles Lakers,Charlotte Hornets,Madison Square Garden,New York,NY,USA,2022-12-23,Fri,7:30 PM,$149
+705,Miami Heat,Indiana Pacers,TD Garden,Boston,MA,USA,2022-12-23,Fri,7:30 PM,$58
+706,Phoenix Suns,Memphis Grizzlies,Barclays Center,Brooklyn,NY,USA,2022-12-23,Fri,7:30 PM,$78
+707,New York Knicks,Philadelphia 76ers,Crypto.com Arena,Los Angeles,CA,USA,2022-12-23,Fri,7:30 PM,$20
+708,Dallas Mavericks,Los Angeles Lakers,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-12-23,Fri,8:00 PM,$50
+709,Boston Celtics,Milwaukee Bucks,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2022-12-23,Fri,8:00 PM,$45
+710,Golden State Warriors,Memphis Grizzlies,Madison Square Garden,New York,NY,USA,2022-12-25,Sun,12:00 PM,$226
+711,Denver Nuggets,Phoenix Suns,American Airlines Center,Dallas,TX,USA,2022-12-25,Sun,1:30 PM,$169
+712,Detroit Pistons (Saddiq Bey Bobblehead Presented By Bally Sports),Los Angeles Clippers,TD Garden,Boston,MA,USA,2022-12-25,Sun,5:00 PM,$108
+713,Cleveland Cavaliers,Brooklyn Nets,Chase Center,San Francisco,CA,USA,2022-12-25,Sun,5:00 PM,$217
+714,New Orleans Pelicans,Indiana Pacers,Ball Arena,Denver,CO,USA,2022-12-25,Sun,8:30 PM,$44
+715,Chicago Bulls,Houston Rockets,Little Caesars Arena,Detroit,MI,USA,2022-12-26,Mon,7:00 PM,$24
+716,San Antonio Spurs,Utah Jazz,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2022-12-26,Mon,7:00 PM,$64
+717,Portland Trail Blazers,Charlotte Hornets,Smoothie King Center,New Orleans,LA,USA,2022-12-26,Mon,7:00 PM,$15
+718,Miami Heat,Minnesota Timberwolves,United Center,Chicago,IL,USA,2022-12-26,Mon,7:00 PM,$38
+719,Oklahoma City Blue,Sioux Falls Skyforce,AT&T Center,San Antonio,TX,USA,2022-12-26,Mon,7:00 PM,$16
+720,Fort Wayne Mad Ants,Maine Celtics,Moda Center at the Rose Quarter,Portland,OR,USA,2022-12-26,Mon,7:00 PM,$26
+721,Orlando Magic,Los Angeles Lakers,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-12-26,Mon,7:30 PM,$58
+722,Lakeland Magic,Westchester Knicks,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-12-27,Tue,12:00 PM,$25
+723,Washington Wizards,Philadelphia 76ers,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-12-27,Tue,12:30 PM, 
+724,Capital City Go-Go,Motor City Cruise,Amway Center,Orlando,FL,USA,2022-12-27,Tue,7:00 PM,$150
+725,Long Island Nets,Greensboro Swarm,RP Funding Center,Lakeland,FL,USA,2022-12-27,Tue,7:00 PM, 
+726,Delaware Blue Coats,Rio Grande Valley Vipers,Capital One Arena,Washington,DC,USA,2022-12-27,Tue,7:00 PM,$30
+727,Oklahoma City Thunder,San Antonio Spurs,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2022-12-27,Tue,7:00 PM, 
+728,Memphis Grizzlies,Phoenix Suns,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2022-12-27,Tue,7:00 PM,$34
+729,Sacramento Kings,Denver Nuggets,Chase Fieldhouse,Wilmington,,USA,2022-12-27,Tue,7:00 PM, 
+730,Golden State Warriors,Charlotte Hornets,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2022-12-27,Tue,7:00 PM,$15
+731,Indiana Pacers,Atlanta Hawks,FedExForum,Memphis,TN,USA,2022-12-27,Tue,7:00 PM,$33
+732,Boston Celtics,Houston Rockets,Golden 1 Center,Sacramento,CA,USA,2022-12-27,Tue,7:00 PM,$32
+733,Toronto Raptors,Los Angeles Clippers,Chase Center,San Francisco,CA,USA,2022-12-27,Tue,7:00 PM,$122
+734,Dallas Mavericks,New York Knicks,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-12-27,Tue,7:30 PM,$21
+735,Detroit Pistons,Orlando Magic,TD Garden,Boston,MA,USA,2022-12-27,Tue,7:30 PM,$50
+736,Washington Wizards,Phoenix Suns,Scotiabank Arena,Toronto,,Canada,2022-12-27,Tue,7:30 PM,$88
+737,Chicago Bulls,Milwaukee Bucks,American Airlines Center,Dallas,TX,USA,2022-12-27,Tue,7:30 PM,$37
+738,New Orleans Pelicans,Minnesota Timberwolves,Little Caesars Arena,Detroit,MI,USA,2022-12-28,Wed,7:00 PM,$22
+739,Sacramento Kings,Denver Nuggets,Capital One Arena,Washington,DC,USA,2022-12-28,Wed,7:00 PM,$33
+740,Golden State Warriors,Utah Jazz,United Center,Chicago,IL,USA,2022-12-28,Wed,7:00 PM,$38
+741,Miami Heat,Los Angeles Lakers,Smoothie King Center,New Orleans,LA,USA,2022-12-28,Wed,7:00 PM,$18
+742,Atlanta Hawks,Brooklyn Nets,Golden 1 Center,Sacramento,CA,USA,2022-12-28,Wed,7:00 PM,$30
+743,Fort Wayne Mad Ants,Windy City Bulls,Chase Center,San Francisco,CA,USA,2022-12-28,Wed,7:00 PM,$107
+744,Indiana Pacers,Cleveland Cavaliers,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2022-12-28,Wed,7:30 PM,$109
+745,Charlotte Hornets,Oklahoma City Thunder,State Farm Arena,Atlanta,GA,USA,2022-12-28,Wed,7:30 PM,$81
+746,Lakeland Magic,Westchester Knicks,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-12-29,Thu,12:30 PM, 
+747,Capital City Go-Go,Motor City Cruise,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-12-29,Thu,7:00 PM,$18
+748,Long Island Nets,Greensboro Swarm,Spectrum Center,Charlotte,NC,USA,2022-12-29,Thu,7:00 PM,$22
+749,San Antonio Spurs,New York Knicks,RP Funding Center,Lakeland,FL,USA,2022-12-29,Thu,7:00 PM,$31
+750,Iowa Wolves,Raptors 905,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2022-12-29,Thu,7:00 PM, 
+751,Birmingham Squadron,Texas Legends,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2022-12-29,Thu,7:00 PM,$51
+752,Santa Cruz Warriors,Stockton Kings,AT&T Center,San Antonio,TX,USA,2022-12-29,Thu,7:00 PM,$24
+753,Toronto Raptors,Memphis Grizzlies,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2022-12-29,Thu,7:00 PM, 
+754,Boston Celtics,Los Angeles Clippers,Legacy Arena at The BJCC,North Birmingham,AL,USA,2022-12-29,Thu,7:00 PM,$29
+755,Dallas Mavericks,Houston Rockets,Kaiser Permanente Arena,Santa Cruz,CA,USA,2022-12-29,Thu,7:00 PM,$38
+756,Austin Spurs,Oklahoma City Blue,Scotiabank Arena,Toronto,,Canada,2022-12-29,Thu,7:30 PM,$80
+757,Maine Celtics,Rio Grande Valley Vipers,TD Garden,Boston,MA,USA,2022-12-29,Thu,7:30 PM,$70
+758,Orlando Magic,Washington Wizards,American Airlines Center,Dallas,TX,USA,2022-12-29,Thu,7:30 PM,$38
+759,Delaware Blue Coats,Long Island Nets,H-E-B Center at Cedar Park,Cedar Park,TX,USA,2022-12-29,Thu,7:30 PM,$29
+760,Chicago Bulls,Detroit Pistons,Portland Expo Center ME,Portland,ME,USA,2022-12-30,Fri,5:00 PM,$29
+761,Milwaukee Bucks,Minnesota Timberwolves,Amway Center,Orlando,FL,USA,2022-12-30,Fri,7:00 PM,$24
+762,Birmingham Squadron,Texas Legends,Chase Fieldhouse,Wilmington,,USA,2022-12-30,Fri,7:00 PM, 
+763,Sacramento Kings,Utah Jazz,Fiserv Forum,Milwaukee,WI,USA,2022-12-30,Fri,7:00 PM,$61
+764,Santa Cruz Warriors,Stockton Kings,Legacy Arena at The BJCC,North Birmingham,AL,USA,2022-12-30,Fri,7:00 PM,$29
+765,Golden State Warriors,Portland Trail Blazers,Ball Arena,Denver,CO,USA,2022-12-30,Fri,7:00 PM,$37
+766,Toronto Raptors,Phoenix Suns,Golden 1 Center,Sacramento,CA,USA,2022-12-30,Fri,7:00 PM,$22
+767,Atlanta Hawks,Los Angeles Lakers,Kaiser Permanente Arena,Santa Cruz,CA,USA,2022-12-30,Fri,7:00 PM,$44
+768,New Orleans Pelicans,Philadelphia 76ers,Chase Center,San Francisco,CA,USA,2022-12-30,Fri,7:00 PM,$125
+769,Greensboro Swarm,Capital City Go-Go,Scotiabank Arena,Toronto,,Canada,2022-12-30,Fri,7:30 PM,$72
+770,Iowa Wolves,Raptors 905,State Farm Arena,Atlanta,GA,USA,2022-12-30,Fri,7:30 PM,$188
+771,Indiana Pacers,Los Angeles Clippers,Smoothie King Center,New Orleans,LA,USA,2022-12-30,Fri,7:30 PM,$28
+772,Maine Celtics,Rio Grande Valley Vipers,The Fieldhouse at Greensboro Coliseum Complex,Greensboro,NC,USA,2022-12-31,Sat,1:00 PM,$28
+773,Motor City Cruise,Windy City Bulls,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2022-12-31,Sat,2:00 PM, 
+774,Houston Rockets,New York Knicks,Gainbridge Fieldhouse,Indianapolis,IN,USA,2022-12-31,Sat,3:00 PM,$41
+775,Chicago Bulls,Cleveland Cavaliers,Portland Expo Center ME,Portland,ME,USA,2022-12-31,Sat,3:00 PM,$33
+776,San Antonio Spurs,Dallas Mavericks,Wayne State Arena,Detroit,MI,USA,2022-12-31,Sat,6:00 PM,$21
+777,College Park SkyHawks,Lakeland Magic,Toyota Center,Houston,TX,USA,2022-12-31,Sat,6:00 PM,$20
+778,Charlotte Hornets,Brooklyn Nets,United Center,Chicago,IL,USA,2022-12-31,Sat,6:00 PM,$38
+779,Sioux Falls Skyforce,Ontario Clippers,AT&T Center,San Antonio,TX,USA,2022-12-31,Sat,6:00 PM,$22
+780,Oklahoma City Thunder,Philadelphia 76ers,Gateway Center Arena at College Park,Atlanta,GA,USA,2022-12-31,Sat,6:30 PM,$21
+781,Minnesota Timberwolves,Detroit Pistons,Spectrum Center,Charlotte,NC,USA,2022-12-31,Sat,7:00 PM,$50
+782,Memphis Grizzlies,New Orleans Pelicans,Sanford Pentagon,Sioux Falls,SD,USA,2022-12-31,Sat,7:00 PM, 
+783,Wisconsin Herd,Grand Rapids Gold,Target Center,Minneapolis,MN,USA,2022-12-31,Sat,7:00 PM,$58
+784,Iowa Wolves,Texas Legends,FedExForum,Memphis,TN,USA,2022-12-31,Sat,7:00 PM,$21
+785,Sioux Falls Skyforce,Ontario Clippers,Vivint Smart Home Arena,Salt Lake City,UT,USA,2022-12-31,Sat,7:00 PM,$20
+786,Austin Spurs,Stockton Kings,Oshkosh Arena,Oshkosh,WI,USA,2022-12-31,Sat,8:00 PM, 
+787,Denver Nuggets,Boston Celtics,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2023-01-01,Sun,2:00 PM, 
+788,Memphis Grizzlies,Sacramento Kings,Sanford Pentagon,Sioux Falls,SD,USA,2023-01-01,Sun,3:00 PM, 
+789,Milwaukee Bucks,Washington Wizards,H-E-B Center at Cedar Park,Cedar Park,TX,USA,2023-01-01,Sun,5:00 PM,$29
+790,New York Knicks,Phoenix Suns,Ball Arena,Denver,CO,USA,2023-01-01,Sun,6:00 PM,$32
+791,Indiana Pacers,Toronto Raptors,FedExForum,Memphis,TN,USA,2023-01-01,Sun,7:00 PM,$10
+792,Cleveland Cavaliers,Chicago Bulls,Fiserv Forum,Milwaukee,WI,USA,2023-01-01,Sun,7:00 PM,$42
+793,Philadelphia 76ers,New Orleans Pelicans,Madison Square Garden,New York,NY,USA,2023-01-02,Mon,3:00 PM,$125
+794,Charlotte Hornets,Los Angeles Lakers,Gainbridge Fieldhouse,Indianapolis,IN,USA,2023-01-02,Mon,7:00 PM,$15
+795,Westchester Knicks,Cleveland Charge,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2023-01-02,Mon,7:00 PM,$33
+796,College Park SkyHawks,Lakeland Magic,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2023-01-02,Mon,7:00 PM,$21
+797,Long Island Nets,Raptors 905,Spectrum Center,Charlotte,NC,USA,2023-01-02,Mon,7:00 PM,$104
+798,Grand Rapids Gold,Delaware Blue Coats,Total Mortgage Arena,Bridgeport,CT,USA,2023-01-02,Mon,7:00 PM,$35
+799,Houston Rockets,Dallas Mavericks,Gateway Center Arena at College Park,Atlanta,GA,USA,2023-01-02,Mon,7:00 PM,$18
+800,Minnesota Timberwolves,Denver Nuggets,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2023-01-02,Mon,7:00 PM,$34
+801,Portland Trail Blazers,Detroit Pistons,Van Andel Arena,Grand Rapids,MI,USA,2023-01-02,Mon,7:00 PM, 
+802,Golden State Warriors,Atlanta Hawks,Toyota Center,Houston,TX,USA,2023-01-02,Mon,7:00 PM,$30
+803,Brooklyn Nets,San Antonio Spurs,Target Center,Minneapolis,MN,USA,2023-01-02,Mon,7:00 PM,$33
+804,Oklahoma City Blue,Rio Grande Valley Vipers,Chase Center,San Francisco,CA,USA,2023-01-02,Mon,7:00 PM,$95
+805,Sioux Falls Skyforce,Texas Legends,Barclays Center,Brooklyn,NY,USA,2023-01-02,Mon,7:30 PM,$41
+806,Westchester Knicks,Cleveland Charge,Crypto.com Arena,Los Angeles,CA,USA,2023-01-02,Mon,7:30 PM,$31
+807,Grand Rapids Gold,Delaware Blue Coats,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2023-01-03,Tue,12:00 PM,$25
+808,Oklahoma City Thunder,Boston Celtics,Sanford Pentagon,Sioux Falls,SD,USA,2023-01-03,Tue,6:30 PM, 
+809,Milwaukee Bucks,Washington Wizards,Total Mortgage Arena,Bridgeport,CT,USA,2023-01-03,Tue,7:00 PM,$35
+810,Utah Jazz,Sacramento Kings,Van Andel Arena,Grand Rapids,MI,USA,2023-01-03,Tue,7:00 PM, 
+811,Philadelphia 76ers,Indiana Pacers,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2023-01-03,Tue,7:00 PM,$21
+812,Orlando Magic,Oklahoma City Thunder,Fiserv Forum,Milwaukee,WI,USA,2023-01-03,Tue,7:00 PM,$31
+813,Charlotte Hornets,Memphis Grizzlies,Vivint Smart Home Arena,Salt Lake City,UT,USA,2023-01-03,Tue,7:00 PM,$9
+814,Cleveland Cavaliers,Phoenix Suns,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2023-01-04,Wed,7:00 PM,$28
+815,Fort Wayne Mad Ants,Windy City Bulls,Amway Center,Orlando,FL,USA,2023-01-04,Wed,7:00 PM,$15
+816,Capital City Go-Go,Austin Spurs,Spectrum Center,Charlotte,NC,USA,2023-01-04,Wed,7:00 PM,$29
+817,Long Island Nets,Raptors 905,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2023-01-04,Wed,7:00 PM,$31
+818,New Orleans Pelicans,Houston Rockets,Allen County War Memorial Coliseum Arena,Fort Wayne,IN,USA,2023-01-04,Wed,7:00 PM,$32
+819,Chicago Bulls,Brooklyn Nets,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2023-01-04,Wed,7:00 PM, 
+820,Minnesota Timberwolves,Portland Trail Blazers,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2023-01-04,Wed,7:00 PM,$34
+821,Wisconsin Herd,College Park Skyhawks,Smoothie King Center,New Orleans,LA,USA,2023-01-04,Wed,7:00 PM,$11
+822,Salt Lake City Stars,Stockton Kings,United Center,Chicago,IL,USA,2023-01-04,Wed,7:00 PM,$38
+823,Sacramento Kings,Atlanta Hawks,Target Center,Minneapolis,MN,USA,2023-01-04,Wed,7:00 PM,$33
+824,Golden State Warriors,Detroit Pistons,Oshkosh Arena,Oshkosh,WI,USA,2023-01-04,Wed,7:00 PM, 
+825,New York Knicks,San Antonio Spurs,Golden 1 Center,Sacramento,CA,USA,2023-01-04,Wed,7:00 PM,$20
+826,Toronto Raptors,Milwaukee Bucks,Chase Center,San Francisco,CA,USA,2023-01-04,Wed,7:00 PM,$78
+827,Dallas Mavericks,Boston Celtics,Crypto.com Arena,Los Angeles,CA,USA,2023-01-04,Wed,7:00 PM,$14
+828,Orlando Magic,Memphis Grizzlies,Madison Square Garden,New York,NY,USA,2023-01-04,Wed,7:30 PM,$73
+829,Grand Rapids Gold,Fort Wayne Mad Ants,Scotiabank Arena,Toronto,,Canada,2023-01-04,Wed,7:30 PM,$76
+830,Maine Celtics,Motor City Cruise,American Airlines Center,Dallas,TX,USA,2023-01-05,Thu,6:30 PM,$38
+831,Houston Rockets,Utah Jazz,Amway Center,Orlando,FL,USA,2023-01-05,Thu,7:00 PM,$28
+832,G League Ignite,Santa Cruz Warriors,Van Andel Arena,Grand Rapids,MI,USA,2023-01-05,Thu,7:00 PM, 
+833,Denver Nuggets,Los Angeles Clippers,Portland Expo Center ME,Portland,ME,USA,2023-01-05,Thu,7:00 PM,$28
+834,Indiana Pacers,Portland Trail Blazers,Toyota Center,Houston,TX,USA,2023-01-05,Thu,7:00 PM,$15
+835,Westchester Knicks,Long Island Nets,Dollar Loan Center Arena,Henderson,NV,USA,2023-01-05,Thu,7:00 PM, 
+836,Capital City Go-Go,Austin Spurs,Ball Arena,Denver,CO,USA,2023-01-05,Thu,8:00 PM,$22
+837,Delaware Blue Coats,Greensboro Swarm,Gainbridge Fieldhouse,Indianapolis,IN,USA,2023-01-06,Fri,7:00 PM,$19
+838,Maine Celtics,Motor City Cruise,Total Mortgage Arena,Bridgeport,CT,USA,2023-01-06,Fri,7:00 PM,$35
+839,Oklahoma City Thunder,Washington Wizards,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2023-01-06,Fri,7:00 PM, 
+840,San Antonio Spurs,Detroit Pistons,Chase Fieldhouse,Wilmington,,USA,2023-01-06,Fri,7:00 PM, 
+841,Windy City Bulls,Lakeland Magic,Portland Expo Center ME,Portland,ME,USA,2023-01-06,Fri,7:00 PM,$29
+842,Milwaukee Bucks,Charlotte Hornets,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2023-01-06,Fri,7:00 PM,$11
+843,Salt Lake City Stars,Iowa Wolves,AT&T Center,San Antonio,TX,USA,2023-01-06,Fri,7:00 PM,$12
+844,Denver Nuggets,Cleveland Cavaliers,NOW Arena,Hoffman Estates,IL,USA,2023-01-06,Fri,7:00 PM, 
+845,Stockton Kings,Ontario Clippers,Fiserv Forum,Milwaukee,WI,USA,2023-01-06,Fri,7:00 PM,$45
+846,G League Ignite,Santa Cruz Warriors,Maverik Center,West Valley City,UT,USA,2023-01-06,Fri,7:00 PM, 
+847,Toronto Raptors,New York Knicks,Ball Arena,Denver,CO,USA,2023-01-06,Fri,7:00 PM,$22
+848,Philadelphia 76ers,Chicago Bulls,Stockton Arena,Stockton,CA,USA,2023-01-06,Fri,7:00 PM,$33
+849,New Orleans Pelicans,Brooklyn Nets,Dollar Loan Center Arena,Henderson,NV,USA,2023-01-06,Fri,7:00 PM, 
+850,Rio Grande Valley Vipers,Sioux Falls Skyforce,Scotiabank Arena,Toronto,,Canada,2023-01-06,Fri,7:30 PM,$69
+851,Los Angeles Lakers,Atlanta Hawks,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2023-01-06,Fri,7:30 PM,$43
+852,Minnesota Timberwolves,Los Angeles Clippers,Smoothie King Center,New Orleans,LA,USA,2023-01-06,Fri,7:30 PM,$30
+853,Wisconsin Herd,College Park Skyhawks,Bert Ogden Arena,Edinburg,TX,USA,2023-01-06,Fri,7:30 PM, 
+854,San Antonio Spurs,Boston Celtics,Target Center,Minneapolis,MN,USA,2023-01-06,Fri,8:00 PM,$47
+855,Golden State Warriors,Orlando Magic,Oshkosh Arena,Oshkosh,WI,USA,2023-01-06,Fri,8:00 PM, 
+856,Dallas Mavericks,New Orleans Pelicans,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2023-01-06,Fri,8:00 PM,$45
+857,Windy City Bulls,Lakeland Magic,AT&T Center,San Antonio,TX,USA,2023-01-07,Sat,5:00 PM,$25
+858,Chicago Bulls,Utah Jazz,Chase Center,San Francisco,CA,USA,2023-01-07,Sat,5:30 PM,$99
+859,Salt Lake City Stars,Iowa Wolves,American Airlines Center,Dallas,TX,USA,2023-01-07,Sat,7:00 PM,$39
+860,Sacramento Kings,Los Angeles Lakers,NOW Arena,Hoffman Estates,IL,USA,2023-01-07,Sat,7:00 PM, 
+861,Rio Grande Valley Vipers,Sioux Falls Skyforce,United Center,Chicago,IL,USA,2023-01-07,Sat,7:00 PM,$38
+862,Texas Legends,Memphis Hustle,Maverik Center,West Valley City,UT,USA,2023-01-07,Sat,7:00 PM, 
+863,Oklahoma City Blue,Santa Cruz Warriors,Golden 1 Center,Sacramento,CA,USA,2023-01-07,Sat,7:00 PM,$100
+864,Westchester Knicks,Long Island Nets,Bert Ogden Arena,Edinburg,TX,USA,2023-01-07,Sat,7:30 PM, 
+865,College Park SkyHawks,Austin Spurs,Comerica Center,Frisco,TX,USA,2023-01-07,Sat,8:30 PM,$24
+866,Detroit Pistons,Philadelphia 76ers,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2023-01-08,Sun,11:00 AM,$24
+867,Delaware Blue Coats,Greensboro Swarm,Total Mortgage Arena,Bridgeport,CT,USA,2023-01-08,Sun,1:00 PM,$35
+868,Fort Wayne Mad Ants,Cleveland Charge,Gateway Center Arena at College Park,Atlanta,GA,USA,2023-01-08,Sun,2:00 PM,$21
+869,Toronto Raptors,Portland Trail Blazers,Little Caesars Arena,Detroit,MI,USA,2023-01-08,Sun,3:00 PM,$18
+870,Texas Legends,Memphis Hustle,Chase Fieldhouse,Wilmington,,USA,2023-01-08,Sun,3:00 PM, 
+871,Indiana Pacers,Charlotte Hornets,Allen County War Memorial Coliseum Arena,Fort Wayne,IN,USA,2023-01-08,Sun,3:00 PM,$32
+872,Memphis Grizzlies,Utah Jazz,Scotiabank Arena,Toronto,,Canada,2023-01-08,Sun,3:30 PM,$50
+873,Miami Heat,Brooklyn Nets,Comerica Center,Frisco,TX,USA,2023-01-08,Sun,4:30 PM,$25
+874,Oklahoma City Thunder,Dallas Mavericks,Gainbridge Fieldhouse,Indianapolis,IN,USA,2023-01-08,Sun,5:00 PM,$19
+875,Houston Rockets,Minnesota Timberwolves,FedExForum,Memphis,TN,USA,2023-01-08,Sun,5:00 PM,$8
+876,Phoenix Suns,Cleveland Cavaliers,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2023-01-08,Sun,6:00 PM,$58
+877,Los Angeles Clippers,Atlanta Hawks,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2023-01-08,Sun,6:00 PM,$17
+878,Washington Wizards,New Orleans Pelicans,Toyota Center,Houston,TX,USA,2023-01-08,Sun,6:00 PM,$19
+879,Long Island Nets,Windy City Bulls,Footprint Center (Former Phoenix Suns Arena),Phoenix,AZ,USA,2023-01-08,Sun,6:00 PM,$31
+880,Motor City Cruise,Lakeland Magic,Crypto.com Arena,Los Angeles,CA,USA,2023-01-08,Sun,6:00 PM,$22
+881,Memphis Grizzlies,San Antonio Spurs,Capital One Arena,Washington,DC,USA,2023-01-09,Mon,7:00 PM,$15
+882,Denver Nuggets,Los Angeles Lakers,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2023-01-09,Mon,7:00 PM,$34
+883,Sacramento Kings,Orlando Magic,Wayne State Arena,Detroit,MI,USA,2023-01-09,Mon,7:00 PM,$13
+884,Stockton Kings,Sioux Falls Skyforce,FedExForum,Memphis,TN,USA,2023-01-09,Mon,7:00 PM,$4
+885,South Bay Lakers,Iowa Wolves,Ball Arena,Denver,CO,USA,2023-01-09,Mon,7:00 PM,$59
+886,New York Knicks,Milwaukee Bucks,Golden 1 Center,Sacramento,CA,USA,2023-01-09,Mon,7:00 PM,$16
+887,Raptors 905,Capital City Go-Go,Stockton Arena,Stockton,CA,USA,2023-01-09,Mon,7:00 PM,$33
+888,Boston Celtics,Chicago Bulls,UCLA Health Training Center,El Segundo,CA,USA,2023-01-09,Mon,7:00 PM,$47
+889,Westchester Knicks,Greensboro Swarm,Madison Square Garden,New York,NY,USA,2023-01-09,Mon,7:30 PM,$85
+890,Salt Lake City Stars,Rio Grande Valley Vipers,Paramount Fine Foods Centre,Mississauga,,Canada,2023-01-09,Mon,7:30 PM, 
+891,Utah Jazz,Cleveland Cavaliers,TD Garden,Boston,MA,USA,2023-01-09,Mon,7:30 PM,$45
+892,Golden State Warriors,Phoenix Suns,Total Mortgage Arena,Bridgeport,CT,USA,2023-01-10,Tue,7:00 PM,$35
+893,Portland Trail Blazers,Orlando Magic,Maverik Center,West Valley City,UT,USA,2023-01-10,Tue,7:00 PM, 
+894,Miami Heat,Oklahoma City Thunder,Vivint Smart Home Arena,Salt Lake City,UT,USA,2023-01-10,Tue,7:00 PM,$40
+895,Philadelphia 76ers,Detroit Pistons,Chase Center,San Francisco,CA,USA,2023-01-10,Tue,7:00 PM,$113
+896,Toronto Raptors,Charlotte Hornets,Moda Center at the Rose Quarter,Portland,OR,USA,2023-01-10,Tue,7:00 PM,$17
+897,Raptors 905,Capital City Go-Go,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2023-01-10,Tue,7:30 PM,$26
+898,Los Angeles Clippers,Dallas Mavericks,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2023-01-10,Tue,7:30 PM,$21
+899,Detroit Pistons,Minnesota Timberwolves,Scotiabank Arena,Toronto,,Canada,2023-01-10,Tue,7:30 PM,$36
+900,Washington Wizards,Chicago Bulls,Paramount Fine Foods Centre,Mississauga,,Canada,2023-01-10,Tue,7:30 PM, 
+901,Long Island Nets,Windy City Bulls,Crypto.com Arena,Los Angeles,CA,USA,2023-01-10,Tue,7:30 PM,$34
+902,Memphis Grizzlies,San Antonio Spurs,Little Caesars Arena,Detroit,MI,USA,2023-01-11,Wed,7:00 PM,$15
+903,Wisconsin Herd,Memphis Hustle,Capital One Arena,Washington,DC,USA,2023-01-11,Wed,7:00 PM,$15
+904,Denver Nuggets,Phoenix Suns,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2023-01-11,Wed,7:00 PM, 
+905,Sacramento Kings,Houston Rockets,FedExForum,Memphis,TN,USA,2023-01-11,Wed,7:00 PM,$4
+906,South Bay Lakers,Oklahoma City Blue,Oshkosh Arena,Oshkosh,WI,USA,2023-01-11,Wed,7:00 PM, 
+907,New York Knicks,Indiana Pacers,Ball Arena,Denver,CO,USA,2023-01-11,Wed,7:00 PM,$23
+908,Boston Celtics,New Orleans Pelicans,Golden 1 Center,Sacramento,CA,USA,2023-01-11,Wed,7:00 PM,$14
+909,Atlanta Hawks,Milwaukee Bucks,UCLA Health Training Center,El Segundo,CA,USA,2023-01-11,Wed,7:00 PM,$47
+910,Philadelphia 76ers,Oklahoma City Thunder,Madison Square Garden,New York,NY,USA,2023-01-11,Wed,7:30 PM,$56
+911,Motor City Cruise,Raptors 905,TD Garden,Boston,MA,USA,2023-01-11,Wed,7:30 PM,$35
+912,Maine Celtics,Delaware Blue Coats,State Farm Arena,Atlanta,GA,USA,2023-01-11,Wed,7:30 PM,$59
+913,Santa Cruz Warriors,Sioux Falls Skyforce,Wells Fargo Center Philadelphia,Philadelphia,PA,USA,2023-01-12,Thu,7:00 PM,$25
+914,Los Angeles Lakers,Dallas Mavericks,Wayne State Arena,Detroit,MI,USA,2023-01-12,Thu,7:00 PM,$18
+915,Ontario Clippers,Iowa Wolves,Portland Expo Center ME,Portland,ME,USA,2023-01-12,Thu,7:00 PM,$26
+916,G League Ignite,Oklahoma City Blue,Kaiser Permanente Arena,Santa Cruz,CA,USA,2023-01-12,Thu,7:00 PM,$31
+917,Portland Trail Blazers,Cleveland Cavaliers,Crypto.com Arena,Los Angeles,CA,USA,2023-01-12,Thu,7:00 PM,$12
+918,Miami Heat,Milwaukee Bucks,Toyota Arena,Ontario,CA,USA,2023-01-12,Thu,7:00 PM,$30
+919,Brooklyn Nets,Boston Celtics,Dollar Loan Center Arena,Henderson,NV,USA,2023-01-12,Thu,7:00 PM, 
+920,Toronto Raptors,Charlotte Hornets,Moda Center at the Rose Quarter,Portland,OR,USA,2023-01-12,Thu,7:00 PM,$25
+921,Indiana Pacers,Atlanta Hawks,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2023-01-12,Thu,7:30 PM,$45
+922,Detroit Pistons,New Orleans Pelicans,Barclays Center,Brooklyn,NY,USA,2023-01-12,Thu,7:30 PM,$51
+923,Washington Wizards,New York Knicks,Scotiabank Arena,Toronto,,Canada,2023-01-12,Thu,7:30 PM,$37
+924,Cleveland Charge,Wisconsin Herd,Gainbridge Fieldhouse,Indianapolis,IN,USA,2023-01-13,Fri,7:00 PM,$20
+925,Lakeland Magic,Greensboro Swarm,Little Caesars Arena,Detroit,MI,USA,2023-01-13,Fri,7:00 PM,$23
+926,Chicago Bulls,Oklahoma City Thunder,Capital One Arena,Washington,DC,USA,2023-01-13,Fri,7:00 PM,$25
+927,Birmingham Squadron,Salt Lake City Stars,Cleveland State University Wolstein Center,Cleveland,OH,USA,2023-01-13,Fri,7:00 PM,$31
+928,Minnesota Timberwolves,Phoenix Suns,RP Funding Center,Lakeland,FL,USA,2023-01-13,Fri,7:00 PM, 
+929,Utah Jazz,Orlando Magic,United Center,Chicago,IL,USA,2023-01-13,Fri,7:00 PM,$38
+930,Sacramento Kings,Houston Rockets,Legacy Arena at The BJCC,North Birmingham,AL,USA,2023-01-13,Fri,7:00 PM,$29
+931,Santa Cruz Warriors,Sioux Falls Skyforce,Target Center,Minneapolis,MN,USA,2023-01-13,Fri,7:00 PM,$53
+932,Stockton Kings,Rio Grande Valley Vipers,Vivint Smart Home Arena,Salt Lake City,UT,USA,2023-01-13,Fri,7:00 PM,$12
+933,Los Angeles Clippers,Denver Nuggets,Golden 1 Center,Sacramento,CA,USA,2023-01-13,Fri,7:00 PM,$22
+934,San Antonio Spurs,Golden State Warriors,Kaiser Permanente Arena,Santa Cruz,CA,USA,2023-01-13,Fri,7:00 PM,$38
+935,Texas Legends,South Bay Lakers,Stockton Arena,Stockton,CA,USA,2023-01-13,Fri,7:00 PM,$33
+936,Miami Heat,Milwaukee Bucks,Crypto.com Arena,Los Angeles,CA,USA,2023-01-13,Fri,7:00 PM,$28
+937,College Park SkyHawks,Capital City Go-Go,Alamodome,San Antonio,TX,USA,2023-01-13,Fri,8:00 PM,$36
+938,Indiana Pacers,Memphis Grizzlies,Comerica Center,Frisco,TX,USA,2023-01-13,Fri,8:30 PM,$24
+939,Charlotte Hornets,Boston Celtics,FTX Arena (Former American Airlines Arena),Miami,FL,USA,2023-01-14,Sat,1:00 PM,$60
+940,Fort Wayne Mad Ants,Wisconsin Herd,Gateway Center Arena at College Park,Atlanta,GA,USA,2023-01-14,Sat,6:30 PM,$23
+941,Long Island Nets,Grand Rapids Gold,Gainbridge Fieldhouse,Indianapolis,IN,USA,2023-01-14,Sat,7:00 PM,$35
+942,Lakeland Magic,Greensboro Swarm,Spectrum Center,Charlotte,NC,USA,2023-01-14,Sat,7:00 PM,$75
+943,Maine Celtics,Delaware Blue Coats,Allen County War Memorial Coliseum Arena,Fort Wayne,IN,USA,2023-01-14,Sat,7:00 PM,$33
+944,Birmingham Squadron,Salt Lake City Stars,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2023-01-14,Sat,7:00 PM,$36
+945,Windy City Bulls,Cleveland Charge,RP Funding Center,Lakeland,FL,USA,2023-01-14,Sat,7:00 PM, 
+946,Minnesota Timberwolves,Cleveland Cavaliers,Portland Expo Center ME,Portland,ME,USA,2023-01-14,Sat,7:00 PM,$33
+947,Utah Jazz,Philadelphia 76ers,Legacy Arena at The BJCC,North Birmingham,AL,USA,2023-01-14,Sat,7:00 PM,$29
+948,Stockton Kings,Rio Grande Valley Vipers,NOW Arena,Hoffman Estates,IL,USA,2023-01-14,Sat,7:00 PM, 
+949,Portland Trail Blazers,Dallas Mavericks,Target Center,Minneapolis,MN,USA,2023-01-14,Sat,7:00 PM,$48
+950,Toronto Raptors,Atlanta Hawks,Vivint Smart Home Arena,Salt Lake City,UT,USA,2023-01-14,Sat,7:00 PM,$18
+951,Texas Legends,South Bay Lakers,Stockton Arena,Stockton,CA,USA,2023-01-14,Sat,7:00 PM,$33
+952,Los Angeles Clippers,Houston Rockets,Moda Center at the Rose Quarter,Portland,OR,USA,2023-01-14,Sat,7:00 PM,$29
+953,Detroit Pistons (Cade Cunningham Bobblehead),New York Knicks,Scotiabank Arena,Toronto,,Canada,2023-01-14,Sat,7:30 PM,$51
+954,Ontario Clippers,Motor City Cruise,Comerica Center,Frisco,TX,USA,2023-01-14,Sat,8:30 PM,$25
+955,Chicago Bulls,Golden State Warriors,Crypto.com Arena,Los Angeles,CA,USA,2023-01-15,Sun,12:00 PM,$14
+956,Sioux Falls Skyforce,Raptors 905,Little Caesars Arena,Detroit,MI,USA,2023-01-15,Sun,1:00 PM,$24
+957,Iowa Wolves,Memphis Hustle,Toyota Arena,Ontario,CA,USA,2023-01-15,Sun,2:00 PM,$30
+958,Brooklyn Nets,Oklahoma City Thunder,United Center,Chicago,IL,USA,2023-01-15,Sun,2:30 PM,$38
+959,San Antonio Spurs,Sacramento Kings,Sanford Pentagon,Sioux Falls,SD,USA,2023-01-15,Sun,3:00 PM, 
+960,Denver Nuggets,Orlando Magic,Wells Fargo Arena (Des Moines),Des Moines,IA,USA,2023-01-15,Sun,3:00 PM, 
+961,Portland Trail Blazers,Dallas Mavericks,Barclays Center,Brooklyn,NY,USA,2023-01-15,Sun,6:00 PM,$29
+962,Los Angeles Lakers,Philadelphia 76ers,AT&T Center,San Antonio,TX,USA,2023-01-15,Sun,6:00 PM,$15
+963,Charlotte Hornets,Boston Celtics,Ball Arena,Denver,CO,USA,2023-01-15,Sun,6:00 PM,$19
+964,Delaware Blue Coats,Wisconsin Herd,Moda Center at the Rose Quarter,Portland,OR,USA,2023-01-15,Sun,6:00 PM,$23
+965,Long Island Nets,Grand Rapids Gold,Crypto.com Arena,Los Angeles,CA,USA,2023-01-15,Sun,6:30 PM,$20
+966,Windy City Bulls,Cleveland Charge,Spectrum Center,Charlotte,NC,USA,2023-01-16,Mon,1:00 PM,$24
+967,Milwaukee Bucks,Indiana Pacers,Chase Fieldhouse,Wilmington,,USA,2023-01-16,Mon,1:00 PM, 
+968,Cleveland Cavaliers,New Orleans Pelicans,NYCB Live Home Of The Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,2023-01-16,Mon,1:00 PM,$36
+969,New York Knicks,Toronto Raptors,NOW Arena,Hoffman Estates,IL,USA,2023-01-16,Mon,1:00 PM, 
+970,Washington Wizards,Golden State Warriors,Fiserv Forum,Milwaukee,WI,USA,2023-01-16,Mon,1:30 PM,$25
+971,Minnesota Timberwolves,Utah Jazz,Rocket Mortgage FieldHouse,Cleveland,OH,USA,2023-01-16,Mon,3:00 PM,$27
+972,G League Ignite,Fort Wayne Mad Ants,Madison Square Garden,New York,NY,USA,2023-01-16,Mon,3:00 PM,$63
+973,Texas Legends,Salt Lake City Stars,Target Center,Minneapolis,MN,USA,2023-01-16,Mon,3:00 PM,$43
+974,Memphis Grizzlies,Phoenix Suns,Dollar Loan Center Arena,Henderson,NV,USA,2023-01-16,Mon,3:00 PM, 
+975,Austin Spurs,Stockton Kings,State Farm Arena,Atlanta,GA,USA,2023-01-16,Mon,3:30 PM,$51
+976,Ontario Clippers,Motor City Cruise,Comerica Center,Frisco,TX,USA,2023-01-16,Mon,4:30 PM,$24
+977,College Park SkyHawks,Capital City Go-Go,FedExForum,Memphis,TN,USA,2023-01-16,Mon,5:00 PM,$19
+978,Los Angeles Lakers,Houston Rockets,H-E-B Center at Cedar Park,Cedar Park,TX,USA,2023-01-16,Mon,5:00 PM,$29
+979,Sioux Falls Skyforce,Lakeland Magic,Toyota Arena,Ontario,CA,USA,2023-01-16,Mon,6:00 PM,$28
+980,Milwaukee Bucks,Toronto Raptors,Gateway Center Arena at College Park,Atlanta,GA,USA,2023-01-16,Mon,7:00 PM,$18
+981,San Antonio Spurs,Brooklyn Nets,Crypto.com Arena,Los Angeles,CA,USA,2023-01-16,Mon,7:30 PM,$12
+982,Memphis Hustle,Santa Cruz Warriors,Sanford Pentagon,Sioux Falls,SD,USA,2023-01-17,Tue,6:30 PM, 
+983,Birmingham Squadron,Rio Grande Valley Vipers,Fiserv Forum,Milwaukee,WI,USA,2023-01-17,Tue,6:30 PM,$21
+984,Denver Nuggets,Portland Trail Blazers,AT&T Center,San Antonio,TX,USA,2023-01-17,Tue,7:00 PM,$25
+985,Los Angeles Clippers,Philadelphia 76ers,Landers Center,Southaven,MS,USA,2023-01-17,Tue,7:00 PM, 
+986,G League Ignite,Fort Wayne Mad Ants,Legacy Arena at The BJCC,North Birmingham,AL,USA,2023-01-17,Tue,7:00 PM,$28
+987,Oklahoma City Blue,Stockton Kings,Ball Arena,Denver,CO,USA,2023-01-17,Tue,7:00 PM,$18
+988,Wisconsin Herd,Westchester Knicks,Crypto.com Arena,Los Angeles,CA,USA,2023-01-17,Tue,7:00 PM,$34
+989,Dallas Mavericks,Atlanta Hawks,Dollar Loan Center Arena,Henderson,NV,USA,2023-01-17,Tue,7:00 PM, 
+990,Capital City Go-Go,Long Island Nets,Paycom Center (Former Chesapeake Energy Arena),Oklahoma City,OK,USA,2023-01-18,Wed,12:00 PM,$25
+991,Greensboro Swarm,Cleveland Charge,Oshkosh Arena,Oshkosh,WI,USA,2023-01-18,Wed,12:30 PM, 
+992,Oklahoma City Thunder,Indiana Pacers,American Airlines Center,Dallas,TX,USA,2023-01-18,Wed,6:30 PM,$20
+993,Memphis Grizzlies,Cleveland Cavaliers,St. Elizabeths East Entertainment and Sports Arena,Washington,DC,USA,2023-01-18,Wed,7:00 PM, 
+994,Houston Rockets,Charlotte Hornets,The Fieldhouse at Greensboro Coliseum Complex,Greensboro,NC,USA,2023-01-18,Wed,7:00 PM,$29
+995,Memphis Hustle,Santa Cruz Warriors,FedExForum,Memphis,TN,USA,2023-01-18,Wed,7:00 PM,$12
+996,Utah Jazz,Los Angeles Clippers,Toyota Center,Houston,TX,USA,2023-01-18,Wed,7:00 PM,$13
+997,New York Knicks,Washington Wizards,Smoothie King Center,New Orleans,LA,USA,2023-01-18,Wed,7:00 PM,$18
+998,Los Angeles Lakers,Sacramento Kings,Landers Center,Southaven,MS,USA,2023-01-18,Wed,7:00 PM, 
+999,Denver Nuggets,Minnesota Timberwolves,Vivint Smart Home Arena,Salt Lake City,UT,USA,2023-01-18,Wed,7:00 PM,$12
+1000,Sioux Falls Skyforce,Lakeland Magic,Madison Square Garden,New York,NY,USA,2023-01-18,Wed,7:30 PM,$55
+1001,Boston Celtics,Golden State Warriors,Crypto.com Arena,Los Angeles,CA,USA,2023-01-18,Wed,7:30 PM,$14

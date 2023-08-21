@@ -1,0 +1,168 @@
+,Home_Team,Away_Team,Arena,City,State,Country,Date,Day,Time,Price
+0,Chicago Bears,Washington Commanders,Soldier Field,Chicago,IL,USA,2022-10-13,Thu,7:15 PM,$90
+1,New Orleans Saints,Cincinnati Bengals,Caesars Superdome,New Orleans,LA,USA,2022-10-16,Sun,12:00 PM,$109
+2,Green Bay Packers,New York Jets,Lambeau Field,Green Bay,WI,USA,2022-10-16,Sun,12:00 PM,$169
+3,New York Giants,Baltimore Ravens,MetLife Stadium,East Rutherford,NJ,USA,2022-10-16,Sun,1:00 PM,$132
+4,Miami Dolphins,Minnesota Vikings,Hard Rock Stadium,Miami,FL,USA,2022-10-16,Sun,1:00 PM,$94
+5,Atlanta Falcons,San Francisco 49ers,Mercedes-Benz Stadium,Atlanta,GA,USA,2022-10-16,Sun,1:00 PM,$89
+6,Indianapolis Colts,Jacksonville Jaguars,Lucas Oil Stadium,Indianapolis,IN,USA,2022-10-16,Sun,1:00 PM,$51
+7,Seattle Seahawks,Arizona Cardinals,Lumen Field,Seattle,WA,USA,2022-10-16,Sun,1:05 PM,$80
+8,Los Angeles Rams,Carolina Panthers,SoFi Stadium,Inglewood,CA,USA,2022-10-16,Sun,1:05 PM,$35
+9,Kansas City Chiefs,Buffalo Bills,GEHA Field at Arrowhead Stadium,Kansas City,MO,USA,2022-10-16,Sun,3:25 PM,$300
+10,Philadelphia Eagles,Dallas Cowboys,Lincoln Financial Field,Philadelphia,PA,USA,2022-10-16,Sun,8:20 PM,$263
+11,Los Angeles Chargers,Denver Broncos,SoFi Stadium,Inglewood,CA,USA,2022-10-17,Mon,5:15 PM,$47
+12,Arizona Cardinals,New Orleans Saints,State Farm Stadium,Glendale,AZ,USA,2022-10-20,Thu,5:15 PM,$44
+13,Tennessee Titans,Indianapolis Colts,Nissan Stadium - Nashville - Formerly LP Field,Nashville,TN,USA,2022-10-23,Sun,12:00 PM,$112
+14,Dallas Cowboys,Detroit Lions,AT&T Stadium,Arlington,TX,USA,2022-10-23,Sun,12:00 PM,$28
+15,Washington Commanders,Green Bay Packers,FedEx Field,Landover,MD,USA,2022-10-23,Sun,1:00 PM,$62
+16,Cincinnati Bengals,Atlanta Falcons,Paycor Stadium (formerly Paul Brown Stadium),Cincinnati,OH,USA,2022-10-23,Sun,1:00 PM,$165
+17,Jacksonville Jaguars,New York Giants,TIAA Bank Field,Jacksonville,FL,USA,2022-10-23,Sun,1:00 PM,$76
+18,Cincinnati Bengals,Atlanta Falcons,Paycor Stadium (formerly Paul Brown Stadium),Cincinnati,OH,USA,2022-10-23,Sun,1:00 PM,$165
+19,Jacksonville Jaguars,New York Giants,TIAA Bank Field,Jacksonville,FL,USA,2022-10-23,Sun,1:00 PM,$76
+20,Baltimore Ravens,Cleveland Browns,M&T Bank Stadium,Baltimore,MD,USA,2022-10-23,Sun,1:00 PM,$89
+21,Carolina Panthers,Tampa Bay Buccaneers,Bank of America Stadium,Charlotte,NC,USA,2022-10-23,Sun,1:00 PM,$92
+22,Las Vegas Raiders,Houston Texans,Allegiant Stadium,Las Vegas,NV,USA,2022-10-23,Sun,1:05 PM,$200
+23,Los Angeles Chargers,Seattle Seahawks,SoFi Stadium,Inglewood,CA,USA,2022-10-23,Sun,1:25 PM,$40
+24,San Francisco 49ers,Kansas City Chiefs,Levi's Stadium,Santa Clara,CA,USA,2022-10-23,Sun,1:25 PM,$120
+25,Denver Broncos,New York Jets,Empower Field at Mile High,Denver,CO,USA,2022-10-23,Sun,2:05 PM,$133
+26,Miami Dolphins,Pittsburgh Steelers,Hard Rock Stadium,Miami,FL,USA,2022-10-23,Sun,8:20 PM,$250
+27,New England Patriots,Chicago Bears,Gillette Stadium,Foxborough,MA,USA,2022-10-24,Mon,8:15 PM,$89
+28,Tampa Bay Buccaneers,Baltimore Ravens,Raymond James Stadium,Tampa,FL,USA,2022-10-27,Thu,8:15 PM,$185
+29,Dallas Cowboys,Chicago Bears,AT&T Stadium,Arlington,TX,USA,2022-10-30,Sun,12:00 PM,$51
+30,New Orleans Saints,Las Vegas Raiders,Caesars Superdome,New Orleans,LA,USA,2022-10-30,Sun,12:00 PM,$77
+31,Minnesota Vikings,Arizona Cardinals,U.S. Bank Stadium,Minneapolis,MN,USA,2022-10-30,Sun,12:00 PM,$68
+32,Atlanta Falcons,Carolina Panthers,Mercedes-Benz Stadium,Atlanta,GA,USA,2022-10-30,Sun,1:00 PM,$44
+33,New York Jets Tickets (D'Brickashaw Ferguson Ring of Honor Ceremony),New England Patriots,MetLife Stadium,East Rutherford,NJ,USA,2022-10-30,Sun,1:00 PM,$78
+34,Detroit Lions,Miami Dolphins,Ford Field,Detroit,MI,USA,2022-10-30,Sun,1:00 PM,$78
+35,Philadelphia Eagles,Pittsburgh Steelers,Lincoln Financial Field,Philadelphia,PA,USA,2022-10-30,Sun,1:00 PM,$289
+36,Los Angeles Rams,San Francisco 49ers,SoFi Stadium,Inglewood,CA,USA,2022-10-30,Sun,1:25 PM,$175
+37,Seattle Seahawks,New York Giants,Lumen Field,Seattle,WA,USA,2022-10-30,Sun,1:25 PM,$100
+38,Houston Texans,Tennessee Titans,NRG Stadium,Houston,TX,USA,2022-10-30,Sun,3:05 PM,$29
+39,Indianapolis Colts,Washington Commanders,Lucas Oil Stadium,Indianapolis,IN,USA,2022-10-30,Sun,4:25 PM,$31
+40,Buffalo Bills,Green Bay Packers,Highmark Stadium,Orchard Park,NY,USA,2022-10-30,Sun,8:20 PM,$328
+41,Cleveland Browns,Cincinnati Bengals,FirstEnergy Stadium,Cleveland,OH,USA,2022-10-31,Mon,8:15 PM,$80
+42,Houston Texans,Philadelphia Eagles,NRG Stadium,Houston,TX,USA,2022-11-03,Thu,7:15 PM,$53
+43,Chicago Bears,Miami Dolphins,Soldier Field,Chicago,IL,USA,2022-11-06,Sun,12:00 PM,$126
+44,Jacksonville Jaguars,Las Vegas Raiders,TIAA Bank Field,Jacksonville,FL,USA,2022-11-06,Sun,1:00 PM,$45
+45,Cincinnati Bengals,Carolina Panthers,Paycor Stadium (formerly Paul Brown Stadium),Cincinnati,OH,USA,2022-11-06,Sun,1:00 PM,$109
+46,Washington Commanders,Minnesota Vikings,FedEx Field,Landover,MD,USA,2022-11-06,Sun,1:00 PM,$48
+47,Atlanta Falcons,Los Angeles Chargers,Mercedes-Benz Stadium,Atlanta,GA,USA,2022-11-06,Sun,1:00 PM,$45
+48,New York Jets,Buffalo Bills,MetLife Stadium,East Rutherford,NJ,USA,2022-11-06,Sun,1:00 PM,$90
+49,Detroit Lions,Green Bay Packers,Ford Field,Detroit,MI,USA,2022-11-06,Sun,1:00 PM,$121
+50,New England Patriots,Indianapolis Colts,Gillette Stadium,Foxborough,MA,USA,2022-11-06,Sun,1:00 PM,$143
+51,Arizona Cardinals,Seattle Seahawks,State Farm Stadium,Glendale,AZ,USA,2022-11-06,Sun,2:05 PM,$63
+52,Tampa Bay Buccaneers,Los Angeles Rams,Raymond James Stadium,Tampa,FL,USA,2022-11-06,Sun,4:25 PM,$180
+53,Kansas City Chiefs,Tennessee Titans,GEHA Field at Arrowhead Stadium,Kansas City,MO,USA,2022-11-06,Sun,7:20 PM,$164
+54,New Orleans Saints,Baltimore Ravens,Caesars Superdome,New Orleans,LA,USA,2022-11-07,Mon,7:15 PM,$85
+55,Carolina Panthers,Atlanta Falcons,Bank of America Stadium,Charlotte,NC,USA,2022-11-10,Thu,8:15 PM,$37
+56,Tennessee Titans,Denver Broncos,Nissan Stadium - Nashville - Formerly LP Field,Nashville,TN,USA,2022-11-13,Sun,12:00 PM,$169
+57,Chicago Bears,Detroit Lions,Soldier Field,Chicago,IL,USA,2022-11-13,Sun,12:00 PM,$100
+58,Kansas City Chiefs,Jacksonville Jaguars,GEHA Field at Arrowhead Stadium,Kansas City,MO,USA,2022-11-13,Sun,12:00 PM,$172
+59,New York Giants,Houston Texans,MetLife Stadium,East Rutherford,NJ,USA,2022-11-13,Sun,1:00 PM,$69
+60,Buffalo Bills,Minnesota Vikings,Highmark Stadium,Orchard Park,NY,USA,2022-11-13,Sun,1:00 PM,$225
+61,Miami Dolphins,Cleveland Browns,Hard Rock Stadium,Miami,FL,USA,2022-11-13,Sun,1:00 PM,$112
+62,Las Vegas Raiders,Indianapolis Colts,Allegiant Stadium,Las Vegas,NV,USA,2022-11-13,Sun,1:05 PM,$234
+63,Los Angeles Rams,Arizona Cardinals,SoFi Stadium,Inglewood,CA,USA,2022-11-13,Sun,1:25 PM,$58
+64,Green Bay Packers,Dallas Cowboys,Lambeau Field,Green Bay,WI,USA,2022-11-13,Sun,3:25 PM,$274
+65,Tampa Bay Buccaneers,Seattle Seahawks,Allianz Arena,Munich,,Germany,2022-11-13,Sun,3:30 PM,$559
+66,San Francisco 49ers,Los Angeles Chargers,Levi's Stadium,Santa Clara,CA,USA,2022-11-13,Sun,5:20 PM,$114
+67,Philadelphia Eagles,Washington Commanders,Lincoln Financial Field,Philadelphia,PA,USA,2022-11-14,Mon,8:15 PM,$125
+68,Green Bay Packers,Tennessee Titans,Lambeau Field,Green Bay,WI,USA,2022-11-17,Thu,7:15 PM,$137
+69,Houston Texans,Washington Commanders,NRG Stadium,Houston,TX,USA,2022-11-20,Sun,12:00 PM,$23
+70,New Orleans Saints,Los Angeles Rams,Caesars Superdome,New Orleans,LA,USA,2022-11-20,Sun,12:00 PM,$48
+71,New England Patriots,New York Jets,Gillette Stadium,Foxborough,MA,USA,2022-11-20,Sun,1:00 PM,$128
+72,Baltimore Ravens,Carolina Panthers,M&T Bank Stadium,Baltimore,MD,USA,2022-11-20,Sun,1:00 PM,$75
+73,New York Giants,Detroit Lions,MetLife Stadium,East Rutherford,NJ,USA,2022-11-20,Sun,1:00 PM,$56
+74,Atlanta Falcons,Chicago Bears,Mercedes-Benz Stadium,Atlanta,GA,USA,2022-11-20,Sun,1:00 PM,$86
+75,Buffalo Bills,Cleveland Browns,Highmark Stadium,Orchard Park,NY,USA,2022-11-20,Sun,1:00 PM,$174
+76,Indianapolis Colts,Philadelphia Eagles,Lucas Oil Stadium,Indianapolis,IN,USA,2022-11-20,Sun,1:00 PM,$78
+77,Los Angeles Chargers,Kansas City Chiefs,SoFi Stadium,Inglewood,CA,USA,2022-11-20,Sun,1:25 PM,$127
+78,Denver Broncos,Las Vegas Raiders,Empower Field at Mile High,Denver,CO,USA,2022-11-20,Sun,2:05 PM,$180
+79,Minnesota Vikings,Dallas Cowboys,U.S. Bank Stadium,Minneapolis,MN,USA,2022-11-20,Sun,3:25 PM,$134
+80,Arizona Cardinals,San Francisco 49ers,Estadio Azteca,Ciudad de México,Estado de Mexico,Mexico,2022-11-21,Mon,7:15 PM,$120
+81,Detroit Lions,Buffalo Bills,Ford Field,Detroit,MI,USA,2022-11-24,Thu,12:30 PM,$195
+82,Dallas Cowboys,New York Giants,AT&T Stadium,Arlington,TX,USA,2022-11-24,Thu,3:30 PM,$51
+83,Minnesota Vikings,New England Patriots,U.S. Bank Stadium,Minneapolis,MN,USA,2022-11-24,Thu,7:20 PM,$84
+84,Tennessee Titans,Cincinnati Bengals,Nissan Stadium - Nashville - Formerly LP Field,Nashville,TN,USA,2022-11-27,Sun,12:00 PM,$120
+85,Washington Commanders,Atlanta Falcons,FedEx Field,Landover,MD,USA,2022-11-27,Sun,1:00 PM,$34
+86,Carolina Panthers,Denver Broncos,Bank of America Stadium,Charlotte,NC,USA,2022-11-27,Sun,1:00 PM,$59
+87,Jacksonville Jaguars,Baltimore Ravens,TIAA Bank Field,Jacksonville,FL,USA,2022-11-27,Sun,1:00 PM,$49
+88,Miami Dolphins,Houston Texans,Hard Rock Stadium,Miami,FL,USA,2022-11-27,Sun,1:00 PM,$80
+89,New York Jets Tickets (Darrelle Revis Ring of Honor Ceremony),Chicago Bears,MetLife Stadium,East Rutherford,NJ,USA,2022-11-27,Sun,1:00 PM,$34
+90,Cleveland Browns,Tampa Bay Buccaneers,FirstEnergy Stadium,Cleveland,OH,USA,2022-11-27,Sun,1:00 PM,$90
+91,Seattle Seahawks,Las Vegas Raiders,Lumen Field,Seattle,WA,USA,2022-11-27,Sun,1:05 PM,$188
+92,San Francisco 49ers,New Orleans Saints,Levi's Stadium,Santa Clara,CA,USA,2022-11-27,Sun,1:25 PM,$85
+93,Arizona Cardinals,Los Angeles Chargers,State Farm Stadium,Glendale,AZ,USA,2022-11-27,Sun,2:05 PM,$50
+94,Kansas City Chiefs,Los Angeles Rams,GEHA Field at Arrowhead Stadium,Kansas City,MO,USA,2022-11-27,Sun,3:25 PM,$184
+95,Philadelphia Eagles,Green Bay Packers,Lincoln Financial Field,Philadelphia,PA,USA,2022-11-27,Sun,8:20 PM,$185
+96,Indianapolis Colts,Pittsburgh Steelers,Lucas Oil Stadium,Indianapolis,IN,USA,2022-11-28,Mon,8:15 PM,$69
+97,New England Patriots,Buffalo Bills,Gillette Stadium,Foxborough,MA,USA,2022-12-01,Thu,8:15 PM,$116
+98,Houston Texans,Cleveland Browns,NRG Stadium,Houston,TX,USA,2022-12-04,Sun,12:00 PM,$74
+99,Minnesota Vikings,New York Jets,U.S. Bank Stadium,Minneapolis,MN,USA,2022-12-04,Sun,12:00 PM,$63
+100,Chicago Bears,Green Bay Packers,Soldier Field,Chicago,IL,USA,2022-12-04,Sun,12:00 PM,$175
+101,New York Giants,Washington Commanders,MetLife Stadium,East Rutherford,NJ,USA,2022-12-04,Sun,1:00 PM,$61
+102,Baltimore Ravens,Denver Broncos,M&T Bank Stadium,Baltimore,MD,USA,2022-12-04,Sun,1:00 PM,$87
+103,Atlanta Falcons,Pittsburgh Steelers,Mercedes-Benz Stadium,Atlanta,GA,USA,2022-12-04,Sun,1:00 PM,$135
+104,Detroit Lions,Jacksonville Jaguars,Ford Field,Detroit,MI,USA,2022-12-04,Sun,1:00 PM,$46
+105,Philadelphia Eagles,Tennessee Titans,Lincoln Financial Field,Philadelphia,PA,USA,2022-12-04,Sun,1:00 PM,$132
+106,Los Angeles Rams,Seattle Seahawks,SoFi Stadium,Inglewood,CA,USA,2022-12-04,Sun,1:05 PM,$53
+107,San Francisco 49ers,Miami Dolphins,Levi's Stadium,Santa Clara,CA,USA,2022-12-04,Sun,1:05 PM,$100
+108,Las Vegas Raiders,Los Angeles Chargers,Allegiant Stadium,Las Vegas,NV,USA,2022-12-04,Sun,1:25 PM,$250
+109,Cincinnati Bengals,Kansas City Chiefs,Paycor Stadium (formerly Paul Brown Stadium),Cincinnati,OH,USA,2022-12-04,Sun,4:25 PM,$185
+110,Dallas Cowboys,Indianapolis Colts,AT&T Stadium,Arlington,TX,USA,2022-12-04,Sun,7:20 PM,$31
+111,Tampa Bay Buccaneers,New Orleans Saints,Raymond James Stadium,Tampa,FL,USA,2022-12-05,Mon,8:15 PM,$133
+112,Los Angeles Rams,Las Vegas Raiders,SoFi Stadium,Inglewood,CA,USA,2022-12-08,Thu,5:15 PM,$173
+113,Dallas Cowboys,Houston Texans,AT&T Stadium,Arlington,TX,USA,2022-12-11,Sun,12:00 PM,$42
+114,Tennessee Titans,Jacksonville Jaguars,Nissan Stadium - Nashville - Formerly LP Field,Nashville,TN,USA,2022-12-11,Sun,12:00 PM,$65
+115,Cincinnati Bengals,Cleveland Browns,Paycor Stadium (formerly Paul Brown Stadium),Cincinnati,OH,USA,2022-12-11,Sun,1:00 PM,$140
+116,New York Giants,Philadelphia Eagles,MetLife Stadium,East Rutherford,NJ,USA,2022-12-11,Sun,1:00 PM,$120
+117,Detroit Lions,Minnesota Vikings,Ford Field,Detroit,MI,USA,2022-12-11,Sun,1:00 PM,$56
+118,Buffalo Bills,New York Jets,Highmark Stadium,Orchard Park,NY,USA,2022-12-11,Sun,1:00 PM,$130
+119,Los Angeles Chargers,Miami Dolphins,SoFi Stadium,Inglewood,CA,USA,2022-12-11,Sun,1:05 PM,$80
+120,Seattle Seahawks,Carolina Panthers,Lumen Field,Seattle,WA,USA,2022-12-11,Sun,1:25 PM,$84
+121,San Francisco 49ers,Tampa Bay Buccaneers,Levi's Stadium,Santa Clara,CA,USA,2022-12-11,Sun,1:25 PM,$206
+122,Denver Broncos,Kansas City Chiefs,Empower Field at Mile High,Denver,CO,USA,2022-12-11,Sun,6:20 PM,$194
+123,Arizona Cardinals,New England Patriots,State Farm Stadium,Glendale,AZ,USA,2022-12-12,Mon,6:15 PM,$89
+124,Seattle Seahawks,San Francisco 49ers,Lumen Field,Seattle,WA,USA,2022-12-15,Thu,5:15 PM,$135
+125,Chicago Bears,Philadelphia Eagles,Soldier Field,Chicago,IL,USA,2022-12-18,Sun,12:00 PM,$104
+126,Houston Texans,Kansas City Chiefs,NRG Stadium,Houston,TX,USA,2022-12-18,Sun,12:00 PM,$80
+127,New York Jets,Detroit Lions,MetLife Stadium,East Rutherford,NJ,USA,2022-12-18,Sun,1:00 PM,$30
+128,Carolina Panthers,Pittsburgh Steelers,Bank of America Stadium,Charlotte,NC,USA,2022-12-18,Sun,1:00 PM,$120
+129,Jacksonville Jaguars,Dallas Cowboys,TIAA Bank Field,Jacksonville,FL,USA,2022-12-18,Sun,1:00 PM,$136
+130,Los Angeles Chargers,Tennessee Titans,SoFi Stadium,Inglewood,CA,USA,2022-12-18,Sun,1:25 PM,$49
+131,Denver Broncos,Arizona Cardinals,Empower Field at Mile High,Denver,CO,USA,2022-12-18,Sun,2:05 PM,$105
+132,Tampa Bay Buccaneers,Cincinnati Bengals,Raymond James Stadium,Tampa,FL,USA,2022-12-18,Sun,4:25 PM,$200
+133,Las Vegas Raiders,New England Patriots,Allegiant Stadium,Las Vegas,NV,USA,2022-12-18,Sun,5:20 PM,$300
+134,Green Bay Packers,Los Angeles Rams,Lambeau Field,Green Bay,WI,USA,2022-12-19,Mon,7:15 PM,$105
+135,New York Jets,Jacksonville Jaguars,MetLife Stadium,East Rutherford,NJ,USA,2022-12-22,Thu,8:15 PM,$26
+136,Kansas City Chiefs,Seattle Seahawks,GEHA Field at Arrowhead Stadium,Kansas City,MO,USA,2022-12-24,Sat,12:00 PM,$64
+137,Minnesota Vikings,New York Giants,U.S. Bank Stadium,Minneapolis,MN,USA,2022-12-24,Sat,12:00 PM,$65
+138,Tennessee Titans,Houston Texans,Nissan Stadium - Nashville - Formerly LP Field,Nashville,TN,USA,2022-12-24,Sat,12:00 PM,$41
+139,Chicago Bears,Buffalo Bills,Soldier Field,Chicago,IL,USA,2022-12-24,Sat,12:00 PM,$80
+140,Baltimore Ravens,Atlanta Falcons,M&T Bank Stadium,Baltimore,MD,USA,2022-12-24,Sat,1:00 PM,$49
+141,New England Patriots,Cincinnati Bengals,Gillette Stadium,Foxborough,MA,USA,2022-12-24,Sat,1:00 PM,$106
+142,Carolina Panthers,Detroit Lions,Bank of America Stadium,Charlotte,NC,USA,2022-12-24,Sat,1:00 PM,$36
+143,Cleveland Browns,New Orleans Saints,FirstEnergy Stadium,Cleveland,OH,USA,2022-12-24,Sat,1:00 PM,$44
+144,San Francisco 49ers,Washington Commanders,Levi's Stadium,Santa Clara,CA,USA,2022-12-24,Sat,1:05 PM,$70
+145,Dallas Cowboys,Philadelphia Eagles,AT&T Stadium,Arlington,TX,USA,2022-12-24,Sat,3:25 PM,$43
+146,Miami Dolphins,Green Bay Packers,Hard Rock Stadium,Miami,FL,USA,2022-12-25,Sun,1:00 PM,$167
+147,Los Angeles Rams,Denver Broncos,SoFi Stadium,Inglewood,CA,USA,2022-12-25,Sun,1:30 PM,$78
+148,Arizona Cardinals,Tampa Bay Buccaneers,State Farm Stadium,Glendale,AZ,USA,2022-12-25,Sun,6:20 PM,$125
+149,Indianapolis Colts,Los Angeles Chargers,Lucas Oil Stadium,Indianapolis,IN,USA,2022-12-26,Mon,8:15 PM,$54
+150,Tennessee Titans (NFT Eligible),Dallas Cowboys,Nissan Stadium - Nashville - Formerly LP Field,Nashville,TN,USA,2022-12-29,Thu,7:15 PM,$265
+151,Kansas City Chiefs,Denver Broncos,GEHA Field at Arrowhead Stadium,Kansas City,MO,USA,2023-01-01,Sun,12:00 PM,$95
+152,Houston Texans,Jacksonville Jaguars,NRG Stadium,Houston,TX,USA,2023-01-01,Sun,12:00 PM,$22
+153,Washington Commanders,Cleveland Browns,FedEx Field,Landover,MD,USA,2023-01-01,Sun,1:00 PM,$42
+154,Baltimore Ravens,Pittsburgh Steelers,M&T Bank Stadium,Baltimore,MD,USA,2023-01-01,Sun,1:00 PM,$115
+155,New England Patriots,Miami Dolphins,Gillette Stadium,Foxborough,MA,USA,2023-01-01,Sun,1:00 PM,$99
+156,Atlanta Falcons,Arizona Cardinals,Mercedes-Benz Stadium,Atlanta,GA,USA,2023-01-01,Sun,1:00 PM,$25
+157,New York Giants,Indianapolis Colts,MetLife Stadium,East Rutherford,NJ,USA,2023-01-01,Sun,1:00 PM,$60
+158,Detroit Lions (NFT Eligible),Chicago Bears,Ford Field,Detroit,MI,USA,2023-01-01,Sun,1:00 PM,$57
+159,Philadelphia Eagles,New Orleans Saints,Lincoln Financial Field,Philadelphia,PA,USA,2023-01-01,Sun,1:00 PM,$130
+160,Tampa Bay Buccaneers,Carolina Panthers,Raymond James Stadium,Tampa,FL,USA,2023-01-01,Sun,1:00 PM,$170
+161,Seattle Seahawks,New York Jets,Lumen Field,Seattle,WA,USA,2023-01-01,Sun,1:05 PM,$70
+162,Las Vegas Raiders,San Francisco 49ers,Allegiant Stadium,Las Vegas,NV,USA,2023-01-01,Sun,1:05 PM,$424
+163,Green Bay Packers,Minnesota Vikings,Lambeau Field,Green Bay,WI,USA,2023-01-01,Sun,3:25 PM,$155
+164,Los Angeles Chargers,Los Angeles Rams,SoFi Stadium,Inglewood,CA,USA,2023-01-01,Sun,5:20 PM,$135
+165,Cincinnati Bengals,Buffalo Bills,Paycor Stadium (formerly Paul Brown Stadium),Cincinnati,OH,USA,2023-01-02,Mon,8:30 PM,$166
+166,Miami Dolphins,New York Jets,Hard Rock Stadium,Miami,FL,USA,2023-01-08,Sun,1:00 PM,$81

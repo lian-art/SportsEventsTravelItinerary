@@ -1,0 +1,17 @@
+,Home_Team,Away_Team,Arena,City,State,Country,Date,Day,Time,Price
+0,Atlanta Braves,Philadelphia Phillies,Truist Park,Atlanta,GA,USA,2022-10-12,Wed,4:35 PM,$15
+1,Los Angeles Dodgers,San Diego Padres,Dodger Stadium,Los Angeles,CA,USA,2022-10-12,Wed,5:37 PM,$53
+2,Houston Astros,Seattle Mariners,Minute Maid Park,Houston,TX,USA,2022-10-13,Thu,2:37 PM,$55
+3,New York Yankees,Cleveland Guardians,Yankee Stadium,Bronx,NY,USA,2022-10-13,Thu,7:37 PM,$99
+4,Philadelphia Phillies,Atlanta Braves,Citizens Bank Park,Philadelphia,PA,USA,2022-10-14,Fri,4:37 PM,$250
+5,San Diego Padres,Los Angeles Dodgers,Petco Park,San Diego,CA,USA,2022-10-14,Fri,5:37 PM,$140
+6,Seattle Mariners,Houston Astros,T-Mobile Park,Seattle,WA,USA,2022-10-15,Sat,1:07 PM,$294
+7,Philadelphia Phillies,Atlanta Braves,Citizens Bank Park,Philadelphia,PA,USA,2022-10-15,Sat,2:07 PM,$155
+8,San Diego Padres,Los Angeles Dodgers,Petco Park,San Diego,CA,USA,2022-10-15,Sat,6:37 PM,$150
+9,Seattle Mariners,Houston Astros,T-Mobile Park,Seattle,WA,USA,2022-10-16,Sun,12:07 PM,$210
+10,Atlanta Braves,Philadelphia Phillies,Truist Park,Atlanta,GA,USA,2022-10-16,Sun,4:37 PM,$58
+11,Los Angeles Dodgers,San Diego Padres,Dodger Stadium,Los Angeles,CA,USA,2022-10-16,Sun,6:07 PM,$79
+12,Houston Astros,Seattle Mariners,Minute Maid Park,Houston,TX,USA,2022-10-17,Mon,4:07 PM,$66
+13,New York Yankees,Cleveland Guardians,Yankee Stadium,Bronx,NY,USA,2022-10-17,Mon,7:37 PM,$106
+14,Kansas City Royals,Oakland Athletics,Kauffman Stadium,Kansas City,MO,USA,2023-05-07,Sun,7:00 PM,$120
+15,Chicago White Sox,Seattle Mariners,Guaranteed Rate Field,Chicago,IL,USA,2023-08-23,Wed,7:00 PM,
